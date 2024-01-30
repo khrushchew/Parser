@@ -1,0 +1,401 @@
+﻿[
+    {
+        "Title": "Американская смесь Hortex",
+        "Proteins": "2.4",
+        "Fats": "0.5",
+        "Carbohydrates": "5.1",
+        "Calories": "39"
+    },
+    {
+        "Title": "Белые грибы Hortex",
+        "Proteins": "3.7",
+        "Fats": "1.7",
+        "Carbohydrates": "1.1",
+        "Calories": "34"
+    },
+    {
+        "Title": "Белые жареные",
+        "Proteins": "4.6",
+        "Fats": "11.5",
+        "Carbohydrates": "10.7",
+        "Calories": "162"
+    },
+    {
+        "Title": "Белые маринованные",
+        "Proteins": "3.0",
+        "Fats": "0.5",
+        "Carbohydrates": "2.0",
+        "Calories": "24"
+    },
+    {
+        "Title": "Белые свежие",
+        "Proteins": "3.7",
+        "Fats": "1.7",
+        "Carbohydrates": "1.1",
+        "Calories": "34"
+    },
+    {
+        "Title": "Белые сушёные",
+        "Proteins": "23.4",
+        "Fats": "6.4",
+        "Carbohydrates": "31.0",
+        "Calories": "282"
+    },
+    {
+        "Title": "Валуи",
+        "Proteins": "3.7",
+        "Fats": "1.7",
+        "Carbohydrates": "1.1",
+        "Calories": "29"
+    },
+    {
+        "Title": "Вешенки маринованные Steinhauer",
+        "Proteins": "1.0",
+        "Fats": "1.5",
+        "Carbohydrates": "0.0",
+        "Calories": "23"
+    },
+    {
+        "Title": "Вешенки свежие",
+        "Proteins": "2.5",
+        "Fats": "0.3",
+        "Carbohydrates": "6.5",
+        "Calories": "38"
+    },
+    {
+        "Title": "Грибное ассорти 4 сезона",
+        "Proteins": "2.9",
+        "Fats": "0.9",
+        "Carbohydrates": "13.0",
+        "Calories": "27"
+    },
+    {
+        "Title": "Грибное ассорти быстрозамороженное",
+        "Proteins": "2.2",
+        "Fats": "0.8",
+        "Carbohydrates": "0.7",
+        "Calories": "20"
+    },
+    {
+        "Title": "Грибное ризотто Бондюэль в томатном соусе",
+        "Proteins": "2.4",
+        "Fats": "0.8",
+        "Carbohydrates": "16.3",
+        "Calories": "82"
+    },
+    {
+        "Title": "Грибной жульен Hortex",
+        "Proteins": "2.6",
+        "Fats": "0.5",
+        "Carbohydrates": "2.6",
+        "Calories": "30"
+    },
+    {
+        "Title": "Грузди маринованные Steinhauer",
+        "Proteins": "1.0",
+        "Fats": "1.8",
+        "Carbohydrates": "0.0",
+        "Calories": "26"
+    },
+    {
+        "Title": "Грузди свежие",
+        "Proteins": "1.8",
+        "Fats": "0.5",
+        "Carbohydrates": "0.8",
+        "Calories": "16"
+    },
+    {
+        "Title": "Дождевики",
+        "Proteins": "4.3",
+        "Fats": "1.0",
+        "Carbohydrates": "1.0",
+        "Calories": "27"
+    },
+    {
+        "Title": "Еноки",
+        "Proteins": "2.7",
+        "Fats": "0.4",
+        "Carbohydrates": "0.2",
+        "Calories": "42"
+    },
+    {
+        "Title": "Лесные грибы Hortex",
+        "Proteins": "2.2",
+        "Fats": "0.7",
+        "Carbohydrates": "3.9",
+        "Calories": "35"
+    },
+    {
+        "Title": "Лесные грибы Hortex с картошкой",
+        "Proteins": "2.6",
+        "Fats": "1.5",
+        "Carbohydrates": "5.5",
+        "Calories": "51"
+    },
+    {
+        "Title": "Лисички быстрозамороженные Свой урожай",
+        "Proteins": "1.5",
+        "Fats": "1.0",
+        "Carbohydrates": "1.0",
+        "Calories": "19"
+    },
+    {
+        "Title": "Лисички свежие",
+        "Proteins": "1.6",
+        "Fats": "1.1",
+        "Carbohydrates": "2.2",
+        "Calories": "20"
+    },
+    {
+        "Title": "Лисички сушёные",
+        "Proteins": "22.3",
+        "Fats": "7.6",
+        "Carbohydrates": "24.2",
+        "Calories": "261"
+    },
+    {
+        "Title": "Маслята маринованные Золотая Долина",
+        "Proteins": "3.0",
+        "Fats": "0.5",
+        "Carbohydrates": "1.4",
+        "Calories": "18"
+    },
+    {
+        "Title": "Маслята свежие",
+        "Proteins": "2.4",
+        "Fats": "0.7",
+        "Carbohydrates": "1.7",
+        "Calories": "19"
+    },
+    {
+        "Title": "Морской гриб",
+        "Proteins": "1.9",
+        "Fats": "0.1",
+        "Carbohydrates": "26.5",
+        "Calories": "132"
+    },
+    {
+        "Title": "Опята маринованные",
+        "Proteins": "1.8",
+        "Fats": "1.0",
+        "Carbohydrates": "0.4",
+        "Calories": "18"
+    },
+    {
+        "Title": "Опята свежие",
+        "Proteins": "2.2",
+        "Fats": "1.2",
+        "Carbohydrates": "0.5",
+        "Calories": "17"
+    },
+    {
+        "Title": "Опята целые Sunfeel",
+        "Proteins": "3.0",
+        "Fats": "0.0",
+        "Carbohydrates": "4.0",
+        "Calories": "40"
+    },
+    {
+        "Title": "Опятки Hortex",
+        "Proteins": "2.2",
+        "Fats": "1.2",
+        "Carbohydrates": "0.8",
+        "Calories": "23"
+    },
+    {
+        "Title": "Подберёзовики свежие",
+        "Proteins": "2.3",
+        "Fats": "0.9",
+        "Carbohydrates": "3.7",
+        "Calories": "31"
+    },
+    {
+        "Title": "Подберёзовики сушёные",
+        "Proteins": "23.5",
+        "Fats": "9.2",
+        "Carbohydrates": "14.3",
+        "Calories": "231"
+    },
+    {
+        "Title": "Подосиновики свежие",
+        "Proteins": "4.1",
+        "Fats": "0.7",
+        "Carbohydrates": "1.8",
+        "Calories": "22"
+    },
+    {
+        "Title": "Подосиновики сушёные",
+        "Proteins": "35.4",
+        "Fats": "5.4",
+        "Carbohydrates": "33.2",
+        "Calories": "315"
+    },
+    {
+        "Title": "Польский гриб",
+        "Proteins": "1.7",
+        "Fats": "0.7",
+        "Carbohydrates": "1.5",
+        "Calories": "19"
+    },
+    {
+        "Title": "Портобелло жареные на гриле",
+        "Proteins": "4.3",
+        "Fats": "0.8",
+        "Carbohydrates": "2.7",
+        "Calories": "35"
+    },
+    {
+        "Title": "Портобелло свежие",
+        "Proteins": "2.5",
+        "Fats": "0.2",
+        "Carbohydrates": "3.6",
+        "Calories": "26"
+    },
+    {
+        "Title": "Рыжики свежие",
+        "Proteins": "1.9",
+        "Fats": "0.8",
+        "Carbohydrates": "2.7",
+        "Calories": "17"
+    },
+    {
+        "Title": "Смесь Грибной дуэт Планета Витаминов Маслята и Опята",
+        "Proteins": "5.7",
+        "Fats": "4.7",
+        "Carbohydrates": "9.8",
+        "Calories": "20"
+    },
+    {
+        "Title": "Сморчки свежие",
+        "Proteins": "1.7",
+        "Fats": "0.3",
+        "Carbohydrates": "4.2",
+        "Calories": "27"
+    },
+    {
+        "Title": "Сыроежки свежие",
+        "Proteins": "1.7",
+        "Fats": "0.7",
+        "Carbohydrates": "1.5",
+        "Calories": "15"
+    },
+    {
+        "Title": "Трюфели свежие",
+        "Proteins": "5.9",
+        "Fats": "0.5",
+        "Carbohydrates": "5.3",
+        "Calories": "51"
+    },
+    {
+        "Title": "Чернушки",
+        "Proteins": "1.5",
+        "Fats": "0.3",
+        "Carbohydrates": "0.1",
+        "Calories": "9"
+    },
+    {
+        "Title": "Шампиньоны 4 сезона нарезанные",
+        "Proteins": "4.5",
+        "Fats": "1.0",
+        "Carbohydrates": "0.1",
+        "Calories": "27"
+    },
+    {
+        "Title": "Шампиньоны Hortex резаные",
+        "Proteins": "2.6",
+        "Fats": "0.4",
+        "Carbohydrates": "0.5",
+        "Calories": "20"
+    },
+    {
+        "Title": "Шампиньоны Hortex целые",
+        "Proteins": "2.6",
+        "Fats": "0.4",
+        "Carbohydrates": "0.5",
+        "Calories": "20"
+    },
+    {
+        "Title": "Шампиньоны Бондюэль резаные",
+        "Proteins": "2.3",
+        "Fats": "0.5",
+        "Carbohydrates": "0.5",
+        "Calories": "16"
+    },
+    {
+        "Title": "Шампиньоны Бондюэль резаные замороженные",
+        "Proteins": "2.4",
+        "Fats": "0.0",
+        "Carbohydrates": "3.7",
+        "Calories": "22"
+    },
+    {
+        "Title": "Шампиньоны Бондюэль целые",
+        "Proteins": "2.3",
+        "Fats": "0.5",
+        "Carbohydrates": "0.5",
+        "Calories": "16"
+    },
+    {
+        "Title": "Шампиньоны Каждый день резаные",
+        "Proteins": "4.3",
+        "Fats": "1.0",
+        "Carbohydrates": "0.1",
+        "Calories": "27"
+    },
+    {
+        "Title": "Шампиньоны консервированные",
+        "Proteins": "1.6",
+        "Fats": "0.2",
+        "Carbohydrates": "0.9",
+        "Calories": "12"
+    },
+    {
+        "Title": "Шампиньоны королевские",
+        "Proteins": "4.6",
+        "Fats": "0.4",
+        "Carbohydrates": "1.3",
+        "Calories": "25"
+    },
+    {
+        "Title": "Шампиньоны Красная цена резаные",
+        "Proteins": "2.5",
+        "Fats": "0.5",
+        "Carbohydrates": "1.0",
+        "Calories": "20"
+    },
+    {
+        "Title": "Шампиньоны свежие",
+        "Proteins": "4.3",
+        "Fats": "1.0",
+        "Carbohydrates": "0.1",
+        "Calories": "27"
+    },
+    {
+        "Title": "Шампиньоны сушеные",
+        "Proteins": "26.8",
+        "Fats": "4.5",
+        "Carbohydrates": "30.0",
+        "Calories": "261"
+    },
+    {
+        "Title": "Шиитаке свежие",
+        "Proteins": "2.2",
+        "Fats": "0.5",
+        "Carbohydrates": "6.8",
+        "Calories": "34"
+    },
+    {
+        "Title": "Шиитаке сушеные",
+        "Proteins": "19.3",
+        "Fats": "0.0",
+        "Carbohydrates": "63.4",
+        "Calories": "331"
+    },
+    {
+        "Title": "Эринги",
+        "Proteins": "3.3",
+        "Fats": "0.4",
+        "Carbohydrates": "4.2",
+        "Calories": "43"
+    }
+]

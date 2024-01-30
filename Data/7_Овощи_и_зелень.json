@@ -1,0 +1,4321 @@
+﻿[
+    {
+        "Title": "Американская смесь Hortex",
+        "Proteins": "2.4",
+        "Fats": "0.5",
+        "Carbohydrates": "5.1",
+        "Calories": "39"
+    },
+    {
+        "Title": "Белые грибы Hortex",
+        "Proteins": "3.7",
+        "Fats": "1.7",
+        "Carbohydrates": "1.1",
+        "Calories": "34"
+    },
+    {
+        "Title": "Белые жареные",
+        "Proteins": "4.6",
+        "Fats": "11.5",
+        "Carbohydrates": "10.7",
+        "Calories": "162"
+    },
+    {
+        "Title": "Белые маринованные",
+        "Proteins": "3.0",
+        "Fats": "0.5",
+        "Carbohydrates": "2.0",
+        "Calories": "24"
+    },
+    {
+        "Title": "Белые свежие",
+        "Proteins": "3.7",
+        "Fats": "1.7",
+        "Carbohydrates": "1.1",
+        "Calories": "34"
+    },
+    {
+        "Title": "Белые сушёные",
+        "Proteins": "23.4",
+        "Fats": "6.4",
+        "Carbohydrates": "31.0",
+        "Calories": "282"
+    },
+    {
+        "Title": "Валуи",
+        "Proteins": "3.7",
+        "Fats": "1.7",
+        "Carbohydrates": "1.1",
+        "Calories": "29"
+    },
+    {
+        "Title": "Вешенки маринованные Steinhauer",
+        "Proteins": "1.0",
+        "Fats": "1.5",
+        "Carbohydrates": "0.0",
+        "Calories": "23"
+    },
+    {
+        "Title": "Вешенки свежие",
+        "Proteins": "2.5",
+        "Fats": "0.3",
+        "Carbohydrates": "6.5",
+        "Calories": "38"
+    },
+    {
+        "Title": "Грибное ассорти 4 сезона",
+        "Proteins": "2.9",
+        "Fats": "0.9",
+        "Carbohydrates": "13.0",
+        "Calories": "27"
+    },
+    {
+        "Title": "Грибное ассорти быстрозамороженное",
+        "Proteins": "2.2",
+        "Fats": "0.8",
+        "Carbohydrates": "0.7",
+        "Calories": "20"
+    },
+    {
+        "Title": "Грибное ризотто Бондюэль в томатном соусе",
+        "Proteins": "2.4",
+        "Fats": "0.8",
+        "Carbohydrates": "16.3",
+        "Calories": "82"
+    },
+    {
+        "Title": "Грибной жульен Hortex",
+        "Proteins": "2.6",
+        "Fats": "0.5",
+        "Carbohydrates": "2.6",
+        "Calories": "30"
+    },
+    {
+        "Title": "Грузди маринованные Steinhauer",
+        "Proteins": "1.0",
+        "Fats": "1.8",
+        "Carbohydrates": "0.0",
+        "Calories": "26"
+    },
+    {
+        "Title": "Грузди свежие",
+        "Proteins": "1.8",
+        "Fats": "0.5",
+        "Carbohydrates": "0.8",
+        "Calories": "16"
+    },
+    {
+        "Title": "Дождевики",
+        "Proteins": "4.3",
+        "Fats": "1.0",
+        "Carbohydrates": "1.0",
+        "Calories": "27"
+    },
+    {
+        "Title": "Еноки",
+        "Proteins": "2.7",
+        "Fats": "0.4",
+        "Carbohydrates": "0.2",
+        "Calories": "42"
+    },
+    {
+        "Title": "Лесные грибы Hortex",
+        "Proteins": "2.2",
+        "Fats": "0.7",
+        "Carbohydrates": "3.9",
+        "Calories": "35"
+    },
+    {
+        "Title": "Лесные грибы Hortex с картошкой",
+        "Proteins": "2.6",
+        "Fats": "1.5",
+        "Carbohydrates": "5.5",
+        "Calories": "51"
+    },
+    {
+        "Title": "Лисички быстрозамороженные Свой урожай",
+        "Proteins": "1.5",
+        "Fats": "1.0",
+        "Carbohydrates": "1.0",
+        "Calories": "19"
+    },
+    {
+        "Title": "Лисички свежие",
+        "Proteins": "1.6",
+        "Fats": "1.1",
+        "Carbohydrates": "2.2",
+        "Calories": "20"
+    },
+    {
+        "Title": "Лисички сушёные",
+        "Proteins": "22.3",
+        "Fats": "7.6",
+        "Carbohydrates": "24.2",
+        "Calories": "261"
+    },
+    {
+        "Title": "Маслята маринованные Золотая Долина",
+        "Proteins": "3.0",
+        "Fats": "0.5",
+        "Carbohydrates": "1.4",
+        "Calories": "18"
+    },
+    {
+        "Title": "Маслята свежие",
+        "Proteins": "2.4",
+        "Fats": "0.7",
+        "Carbohydrates": "1.7",
+        "Calories": "19"
+    },
+    {
+        "Title": "Морской гриб",
+        "Proteins": "1.9",
+        "Fats": "0.1",
+        "Carbohydrates": "26.5",
+        "Calories": "132"
+    },
+    {
+        "Title": "Опята маринованные",
+        "Proteins": "1.8",
+        "Fats": "1.0",
+        "Carbohydrates": "0.4",
+        "Calories": "18"
+    },
+    {
+        "Title": "Опята свежие",
+        "Proteins": "2.2",
+        "Fats": "1.2",
+        "Carbohydrates": "0.5",
+        "Calories": "17"
+    },
+    {
+        "Title": "Опята целые Sunfeel",
+        "Proteins": "3.0",
+        "Fats": "0.0",
+        "Carbohydrates": "4.0",
+        "Calories": "40"
+    },
+    {
+        "Title": "Опятки Hortex",
+        "Proteins": "2.2",
+        "Fats": "1.2",
+        "Carbohydrates": "0.8",
+        "Calories": "23"
+    },
+    {
+        "Title": "Подберёзовики свежие",
+        "Proteins": "2.3",
+        "Fats": "0.9",
+        "Carbohydrates": "3.7",
+        "Calories": "31"
+    },
+    {
+        "Title": "Подберёзовики сушёные",
+        "Proteins": "23.5",
+        "Fats": "9.2",
+        "Carbohydrates": "14.3",
+        "Calories": "231"
+    },
+    {
+        "Title": "Подосиновики свежие",
+        "Proteins": "4.1",
+        "Fats": "0.7",
+        "Carbohydrates": "1.8",
+        "Calories": "22"
+    },
+    {
+        "Title": "Подосиновики сушёные",
+        "Proteins": "35.4",
+        "Fats": "5.4",
+        "Carbohydrates": "33.2",
+        "Calories": "315"
+    },
+    {
+        "Title": "Польский гриб",
+        "Proteins": "1.7",
+        "Fats": "0.7",
+        "Carbohydrates": "1.5",
+        "Calories": "19"
+    },
+    {
+        "Title": "Портобелло жареные на гриле",
+        "Proteins": "4.3",
+        "Fats": "0.8",
+        "Carbohydrates": "2.7",
+        "Calories": "35"
+    },
+    {
+        "Title": "Портобелло свежие",
+        "Proteins": "2.5",
+        "Fats": "0.2",
+        "Carbohydrates": "3.6",
+        "Calories": "26"
+    },
+    {
+        "Title": "Рыжики свежие",
+        "Proteins": "1.9",
+        "Fats": "0.8",
+        "Carbohydrates": "2.7",
+        "Calories": "17"
+    },
+    {
+        "Title": "Смесь Грибной дуэт Планета Витаминов Маслята и Опята",
+        "Proteins": "5.7",
+        "Fats": "4.7",
+        "Carbohydrates": "9.8",
+        "Calories": "20"
+    },
+    {
+        "Title": "Сморчки свежие",
+        "Proteins": "1.7",
+        "Fats": "0.3",
+        "Carbohydrates": "4.2",
+        "Calories": "27"
+    },
+    {
+        "Title": "Сыроежки свежие",
+        "Proteins": "1.7",
+        "Fats": "0.7",
+        "Carbohydrates": "1.5",
+        "Calories": "15"
+    },
+    {
+        "Title": "Трюфели свежие",
+        "Proteins": "5.9",
+        "Fats": "0.5",
+        "Carbohydrates": "5.3",
+        "Calories": "51"
+    },
+    {
+        "Title": "Чернушки",
+        "Proteins": "1.5",
+        "Fats": "0.3",
+        "Carbohydrates": "0.1",
+        "Calories": "9"
+    },
+    {
+        "Title": "Шампиньоны 4 сезона нарезанные",
+        "Proteins": "4.5",
+        "Fats": "1.0",
+        "Carbohydrates": "0.1",
+        "Calories": "27"
+    },
+    {
+        "Title": "Шампиньоны Hortex резаные",
+        "Proteins": "2.6",
+        "Fats": "0.4",
+        "Carbohydrates": "0.5",
+        "Calories": "20"
+    },
+    {
+        "Title": "Шампиньоны Hortex целые",
+        "Proteins": "2.6",
+        "Fats": "0.4",
+        "Carbohydrates": "0.5",
+        "Calories": "20"
+    },
+    {
+        "Title": "Шампиньоны Бондюэль резаные",
+        "Proteins": "2.3",
+        "Fats": "0.5",
+        "Carbohydrates": "0.5",
+        "Calories": "16"
+    },
+    {
+        "Title": "Шампиньоны Бондюэль резаные замороженные",
+        "Proteins": "2.4",
+        "Fats": "0.0",
+        "Carbohydrates": "3.7",
+        "Calories": "22"
+    },
+    {
+        "Title": "Шампиньоны Бондюэль целые",
+        "Proteins": "2.3",
+        "Fats": "0.5",
+        "Carbohydrates": "0.5",
+        "Calories": "16"
+    },
+    {
+        "Title": "Шампиньоны Каждый день резаные",
+        "Proteins": "4.3",
+        "Fats": "1.0",
+        "Carbohydrates": "0.1",
+        "Calories": "27"
+    },
+    {
+        "Title": "Шампиньоны консервированные",
+        "Proteins": "1.6",
+        "Fats": "0.2",
+        "Carbohydrates": "0.9",
+        "Calories": "12"
+    },
+    {
+        "Title": "Шампиньоны королевские",
+        "Proteins": "4.6",
+        "Fats": "0.4",
+        "Carbohydrates": "1.3",
+        "Calories": "25"
+    },
+    {
+        "Title": "Шампиньоны Красная цена резаные",
+        "Proteins": "2.5",
+        "Fats": "0.5",
+        "Carbohydrates": "1.0",
+        "Calories": "20"
+    },
+    {
+        "Title": "Шампиньоны свежие",
+        "Proteins": "4.3",
+        "Fats": "1.0",
+        "Carbohydrates": "0.1",
+        "Calories": "27"
+    },
+    {
+        "Title": "Шампиньоны сушеные",
+        "Proteins": "26.8",
+        "Fats": "4.5",
+        "Carbohydrates": "30.0",
+        "Calories": "261"
+    },
+    {
+        "Title": "Шиитаке свежие",
+        "Proteins": "2.2",
+        "Fats": "0.5",
+        "Carbohydrates": "6.8",
+        "Calories": "34"
+    },
+    {
+        "Title": "Шиитаке сушеные",
+        "Proteins": "19.3",
+        "Fats": "0.0",
+        "Carbohydrates": "63.4",
+        "Calories": "331"
+    },
+    {
+        "Title": "Эринги",
+        "Proteins": "3.3",
+        "Fats": "0.4",
+        "Carbohydrates": "4.2",
+        "Calories": "43"
+    },
+    {
+        "Title": "Колбаса вареная Велком языковая",
+        "Proteins": "14.0",
+        "Fats": "17.0",
+        "Carbohydrates": "0.0",
+        "Calories": "210"
+    },
+    {
+        "Title": "Колбаса вареная Вязанка классическая",
+        "Proteins": "11.0",
+        "Fats": "13.0",
+        "Carbohydrates": "0.0",
+        "Calories": "161"
+    },
+    {
+        "Title": "Колбаса вареная Диетическая",
+        "Proteins": "12.1",
+        "Fats": "13.5",
+        "Carbohydrates": "0.0",
+        "Calories": "170"
+    },
+    {
+        "Title": "Колбаса вареная Докторская",
+        "Proteins": "12.8",
+        "Fats": "22.2",
+        "Carbohydrates": "1.5",
+        "Calories": "257"
+    },
+    {
+        "Title": "Колбаса вареная Докторская Вернер",
+        "Proteins": "12.0",
+        "Fats": "20.0",
+        "Carbohydrates": "0.0",
+        "Calories": "228"
+    },
+    {
+        "Title": "Колбаса вареная Докторская Коровино",
+        "Proteins": "13.0",
+        "Fats": "15.0",
+        "Carbohydrates": "0.0",
+        "Calories": "187"
+    },
+    {
+        "Title": "Колбаса вареная Клинский телячья",
+        "Proteins": "13.0",
+        "Fats": "22.0",
+        "Carbohydrates": "0.0",
+        "Calories": "252"
+    },
+    {
+        "Title": "Колбаса вареная Куриная",
+        "Proteins": "15.5",
+        "Fats": "16.2",
+        "Carbohydrates": "2.3",
+        "Calories": "223"
+    },
+    {
+        "Title": "Колбаса вареная Любительская",
+        "Proteins": "12.2",
+        "Fats": "28.0",
+        "Carbohydrates": "0.1",
+        "Calories": "301"
+    },
+    {
+        "Title": "Колбаса вареная МакЛарин Домашняя",
+        "Proteins": "8.0",
+        "Fats": "20.0",
+        "Carbohydrates": "0.0",
+        "Calories": "212"
+    },
+    {
+        "Title": "Колбаса вареная Молочная",
+        "Proteins": "11.7",
+        "Fats": "22.8",
+        "Carbohydrates": "0.2",
+        "Calories": "252"
+    },
+    {
+        "Title": "Колбаса вареная Мортаделла",
+        "Proteins": "16.4",
+        "Fats": "25.3",
+        "Carbohydrates": "3.1",
+        "Calories": "331"
+    },
+    {
+        "Title": "Колбаса вареная Московская",
+        "Proteins": "11.5",
+        "Fats": "21.8",
+        "Carbohydrates": "2.0",
+        "Calories": "250"
+    },
+    {
+        "Title": "Колбаса вареная Русская",
+        "Proteins": "11.8",
+        "Fats": "28.9",
+        "Carbohydrates": "0.0",
+        "Calories": "302"
+    },
+    {
+        "Title": "Колбаса вареная Свиная",
+        "Proteins": "10.8",
+        "Fats": "25.8",
+        "Carbohydrates": "0.5",
+        "Calories": "277"
+    },
+    {
+        "Title": "Колбаса вареная Столичная",
+        "Proteins": "15.1",
+        "Fats": "28.7",
+        "Carbohydrates": "0.0",
+        "Calories": "319"
+    },
+    {
+        "Title": "Колбаса вареная Столовая",
+        "Proteins": "11.1",
+        "Fats": "20.2",
+        "Carbohydrates": "1.9",
+        "Calories": "234"
+    },
+    {
+        "Title": "Колбаса вареная Чайная",
+        "Proteins": "11.7",
+        "Fats": "18.4",
+        "Carbohydrates": "1.9",
+        "Calories": "216"
+    },
+    {
+        "Title": "Колбаса варено-копченая Востряково из курицы",
+        "Proteins": "19.0",
+        "Fats": "11.0",
+        "Carbohydrates": "0.0",
+        "Calories": "179"
+    },
+    {
+        "Title": "Колбаса варено-копченая куриная жареная",
+        "Proteins": "19.7",
+        "Fats": "17.4",
+        "Carbohydrates": "1.7",
+        "Calories": "371"
+    },
+    {
+        "Title": "Колбаса варено-копченая Любительская",
+        "Proteins": "17.2",
+        "Fats": "39.0",
+        "Carbohydrates": "0.2",
+        "Calories": "420"
+    },
+    {
+        "Title": "Колбаса варено-копченая Московская",
+        "Proteins": "19.1",
+        "Fats": "36.6",
+        "Carbohydrates": "0.2",
+        "Calories": "406"
+    },
+    {
+        "Title": "Колбаса варено-копченая Рублёвский Балыковая",
+        "Proteins": "12.0",
+        "Fats": "25.0",
+        "Carbohydrates": "0.0",
+        "Calories": "270"
+    },
+    {
+        "Title": "Колбаса варено-копченая сервелат",
+        "Proteins": "16.1",
+        "Fats": "40.1",
+        "Carbohydrates": "0.0",
+        "Calories": "425"
+    },
+    {
+        "Title": "Колбаса варено-копченая сервелат боярский",
+        "Proteins": "14.0",
+        "Fats": "21.0",
+        "Carbohydrates": "0.0",
+        "Calories": "269"
+    },
+    {
+        "Title": "Колбаса варено-копченая сервелат Велком финский",
+        "Proteins": "15.0",
+        "Fats": "25.5",
+        "Carbohydrates": "0.0",
+        "Calories": "290"
+    },
+    {
+        "Title": "Колбаса варено-копченая сервелат Вернер",
+        "Proteins": "16.0",
+        "Fats": "47.0",
+        "Carbohydrates": "0.0",
+        "Calories": "487"
+    },
+    {
+        "Title": "Колбаса варено-копченая сервелат Вязанка Столичный",
+        "Proteins": "15.0",
+        "Fats": "27.0",
+        "Carbohydrates": "0.0",
+        "Calories": "303"
+    },
+    {
+        "Title": "Колбаса варено-копченая сервелат Дымов в вакууме",
+        "Proteins": "14.0",
+        "Fats": "24.0",
+        "Carbohydrates": "0.0",
+        "Calories": "272"
+    },
+    {
+        "Title": "Колбаса варено-копченая сервелат Дымов Ореховый",
+        "Proteins": "13.0",
+        "Fats": "38.0",
+        "Carbohydrates": "0.0",
+        "Calories": "394"
+    },
+    {
+        "Title": "Колбаса варено-копченая сервелат Клинский Финский",
+        "Proteins": "13.0",
+        "Fats": "32.0",
+        "Carbohydrates": "0.0",
+        "Calories": "340"
+    },
+    {
+        "Title": "Колбаса варено-копченая сервелат Останкино Зернистый",
+        "Proteins": "10.0",
+        "Fats": "37.0",
+        "Carbohydrates": "0.0",
+        "Calories": "385"
+    },
+    {
+        "Title": "Колбаса варено-копченая сервелат российский",
+        "Proteins": "13.0",
+        "Fats": "39.0",
+        "Carbohydrates": "1.0",
+        "Calories": "410"
+    },
+    {
+        "Title": "Колбаса вегетарианская",
+        "Proteins": "21.7",
+        "Fats": "12.3",
+        "Carbohydrates": "1.8",
+        "Calories": "207"
+    },
+    {
+        "Title": "Колбаса вегетарианская Велком Классическая",
+        "Proteins": "4.0",
+        "Fats": "5.0",
+        "Carbohydrates": "9.0",
+        "Calories": "100"
+    },
+    {
+        "Title": "Колбаса вегетарианская Велком с грибами",
+        "Proteins": "4.0",
+        "Fats": "5.0",
+        "Carbohydrates": "8.0",
+        "Calories": "90"
+    },
+    {
+        "Title": "Колбаса вегетарианская горячего копчения Московская Премиум",
+        "Proteins": "20.0",
+        "Fats": "22.0",
+        "Carbohydrates": "8.0",
+        "Calories": "210"
+    },
+    {
+        "Title": "Колбаса вегетарианская полукопченая Vego с сыром постная",
+        "Proteins": "19.0",
+        "Fats": "16.0",
+        "Carbohydrates": "12.0",
+        "Calories": "270"
+    },
+    {
+        "Title": "Колбаса ливерная",
+        "Proteins": "14.4",
+        "Fats": "28.5",
+        "Carbohydrates": "2.2",
+        "Calories": "326"
+    },
+    {
+        "Title": "Колбаса ливерная Атяшево Печеночная",
+        "Proteins": "4.0",
+        "Fats": "16.0",
+        "Carbohydrates": "11.0",
+        "Calories": "200"
+    },
+    {
+        "Title": "Колбаса ливерная Баварская",
+        "Proteins": "11.0",
+        "Fats": "18.0",
+        "Carbohydrates": "2.0",
+        "Calories": "210"
+    },
+    {
+        "Title": "Колбаса ливерная Окраина традиционная",
+        "Proteins": "13.0",
+        "Fats": "19.0",
+        "Carbohydrates": "6.0",
+        "Calories": "250"
+    },
+    {
+        "Title": "Колбаса ливерная Рублёвский яичная",
+        "Proteins": "11.0",
+        "Fats": "34.0",
+        "Carbohydrates": "4.0",
+        "Calories": "370"
+    },
+    {
+        "Title": "Колбаса печеночная домашняя",
+        "Proteins": "15.0",
+        "Fats": "22.0",
+        "Carbohydrates": "0.0",
+        "Calories": "258"
+    },
+    {
+        "Title": "Колбаса полукопченая Дымов салями Финская",
+        "Proteins": "10.0",
+        "Fats": "47.0",
+        "Carbohydrates": "0.0",
+        "Calories": "463"
+    },
+    {
+        "Title": "Колбаса полукопченая Закусочная",
+        "Proteins": "15.0",
+        "Fats": "33.0",
+        "Carbohydrates": "2.3",
+        "Calories": "366"
+    },
+    {
+        "Title": "Колбаса полукопченая Краковская",
+        "Proteins": "16.2",
+        "Fats": "44.6",
+        "Carbohydrates": "0.0",
+        "Calories": "466"
+    },
+    {
+        "Title": "Колбаса полукопченая Краковская Вернер",
+        "Proteins": "14.0",
+        "Fats": "45.0",
+        "Carbohydrates": "0.0",
+        "Calories": "461"
+    },
+    {
+        "Title": "Колбаса полукопченая Краковская МД Бородина",
+        "Proteins": "16.0",
+        "Fats": "27.0",
+        "Carbohydrates": "0.0",
+        "Calories": "307"
+    },
+    {
+        "Title": "Колбаса полукопченая Минская",
+        "Proteins": "17.4",
+        "Fats": "23.0",
+        "Carbohydrates": "2.7",
+        "Calories": "287"
+    },
+    {
+        "Title": "Колбаса полукопченая Одесская",
+        "Proteins": "14.8",
+        "Fats": "38.1",
+        "Carbohydrates": "0.3",
+        "Calories": "402"
+    },
+    {
+        "Title": "Колбаса полукопченая Останкино салями Венская",
+        "Proteins": "10.0",
+        "Fats": "37.0",
+        "Carbohydrates": "0.0",
+        "Calories": "390"
+    },
+    {
+        "Title": "Колбаса полукопченая Полтавская",
+        "Proteins": "16.4",
+        "Fats": "39.0",
+        "Carbohydrates": "0.0",
+        "Calories": "417"
+    },
+    {
+        "Title": "Колбаса полукопченая салями любительская",
+        "Proteins": "12.0",
+        "Fats": "50.0",
+        "Carbohydrates": "0.0",
+        "Calories": "498"
+    },
+    {
+        "Title": "Колбаса полукопченая Таллиннская",
+        "Proteins": "17.1",
+        "Fats": "33.8",
+        "Carbohydrates": "0.2",
+        "Calories": "373"
+    },
+    {
+        "Title": "Колбаса полукопченая Украинская",
+        "Proteins": "16.5",
+        "Fats": "34.4",
+        "Carbohydrates": "0.0",
+        "Calories": "376"
+    },
+    {
+        "Title": "Колбаса полукопченая Чесночная Папа может",
+        "Proteins": "12.0",
+        "Fats": "21.0",
+        "Carbohydrates": "3.0",
+        "Calories": "249"
+    },
+    {
+        "Title": "Колбаса сыровяленая Дымов салями Милано",
+        "Proteins": "21.0",
+        "Fats": "28.0",
+        "Carbohydrates": "2.0",
+        "Calories": "344"
+    },
+    {
+        "Title": "Колбаса сыровяленая Мясницкий ряд Милано нарезка",
+        "Proteins": "15.0",
+        "Fats": "45.0",
+        "Carbohydrates": "0.0",
+        "Calories": "465"
+    },
+    {
+        "Title": "Колбаса сыровяленая полусухая Casademont Fuet Extra",
+        "Proteins": "24.0",
+        "Fats": "32.0",
+        "Carbohydrates": "0.0",
+        "Calories": "384"
+    },
+    {
+        "Title": "Колбаса сыровяленая полусухая Casademont Fuet Extra с перцем",
+        "Proteins": "22.0",
+        "Fats": "32.0",
+        "Carbohydrates": "0.0",
+        "Calories": "376"
+    },
+    {
+        "Title": "Колбаса сыровяленая полусухая Parlo Italiano Салями Милано",
+        "Proteins": "10.0",
+        "Fats": "55.0",
+        "Carbohydrates": "0.0",
+        "Calories": "540"
+    },
+    {
+        "Title": "Колбаса сыровяленая полусухая Salumi di Bosco Салями традиционная",
+        "Proteins": "28.0",
+        "Fats": "19.0",
+        "Carbohydrates": "1.0",
+        "Calories": "290"
+    },
+    {
+        "Title": "Колбаса сыровяленая полусухая Егорьевская ФКГ с трюфелем",
+        "Proteins": "16.0",
+        "Fats": "40.0",
+        "Carbohydrates": "1.0",
+        "Calories": "428"
+    },
+    {
+        "Title": "Колбаса сыровяленая Сальчичон",
+        "Proteins": "17.0",
+        "Fats": "31.0",
+        "Carbohydrates": "1.1",
+        "Calories": "351"
+    },
+    {
+        "Title": "Колбаса сыровяленая Суджук",
+        "Proteins": "30.3",
+        "Fats": "37.9",
+        "Carbohydrates": "0.0",
+        "Calories": "463"
+    },
+    {
+        "Title": "Колбаса сыровяленая Сытный Дом Сопресатта из говядины",
+        "Proteins": "18.0",
+        "Fats": "35.0",
+        "Carbohydrates": "0.2",
+        "Calories": "402"
+    },
+    {
+        "Title": "Колбаса сыровяленая Чоризо",
+        "Proteins": "24.1",
+        "Fats": "38.3",
+        "Carbohydrates": "1.9",
+        "Calories": "455"
+    },
+    {
+        "Title": "Колбаса сырокопченая Ближние горки Тоскана",
+        "Proteins": "25.0",
+        "Fats": "30.0",
+        "Carbohydrates": "0.0",
+        "Calories": "370"
+    },
+    {
+        "Title": "Колбаса сырокопченая брауншвейгская",
+        "Proteins": "27.7",
+        "Fats": "42.2",
+        "Carbohydrates": "0.2",
+        "Calories": "491"
+    },
+    {
+        "Title": "Колбаса сырокопченая Доброгост Пепперони",
+        "Proteins": "16.0",
+        "Fats": "46.0",
+        "Carbohydrates": "0.0",
+        "Calories": "480"
+    },
+    {
+        "Title": "Колбаса сырокопченая Дымов Классик",
+        "Proteins": "24.0",
+        "Fats": "26.0",
+        "Carbohydrates": "0.0",
+        "Calories": "330"
+    },
+    {
+        "Title": "Колбаса сырокопченая Дымов Пепперони",
+        "Proteins": "15.0",
+        "Fats": "45.0",
+        "Carbohydrates": "0.0",
+        "Calories": "465"
+    },
+    {
+        "Title": "Колбаса сырокопченая зернистая",
+        "Proteins": "9.9",
+        "Fats": "62.8",
+        "Carbohydrates": "0.3",
+        "Calories": "606"
+    },
+    {
+        "Title": "Колбаса сырокопченая Клинский свиная",
+        "Proteins": "11.0",
+        "Fats": "57.3",
+        "Carbohydrates": "0.0",
+        "Calories": "568"
+    },
+    {
+        "Title": "Колбаса сырокопченая любительская",
+        "Proteins": "20.9",
+        "Fats": "47.8",
+        "Carbohydrates": "0.0",
+        "Calories": "514"
+    },
+    {
+        "Title": "Колбаса сырокопченая московская",
+        "Proteins": "24.8",
+        "Fats": "41.5",
+        "Carbohydrates": "0.0",
+        "Calories": "473"
+    },
+    {
+        "Title": "Колбаса сырокопченая Охотничья Папа может",
+        "Proteins": "21.0",
+        "Fats": "48.0",
+        "Carbohydrates": "0.0",
+        "Calories": "516"
+    },
+    {
+        "Title": "Колбаса сырокопченая Палермо Егорьевская ФКГ",
+        "Proteins": "16.0",
+        "Fats": "42.0",
+        "Carbohydrates": "0.0",
+        "Calories": "446"
+    },
+    {
+        "Title": "Колбаса сырокопченая полусухая Велком Чикен салями №2",
+        "Proteins": "21.0",
+        "Fats": "30.0",
+        "Carbohydrates": "0.0",
+        "Calories": "350"
+    },
+    {
+        "Title": "Амарант",
+        "Proteins": "13.6",
+        "Fats": "7.0",
+        "Carbohydrates": "69.0",
+        "Calories": "371"
+    },
+    {
+        "Title": "Амарантовые отруби Di&Di с гречей",
+        "Proteins": "19.0",
+        "Fats": "5.5",
+        "Carbohydrates": "55.0",
+        "Calories": "345"
+    },
+    {
+        "Title": "Амарантовые отруби Di&Di с ламинарией",
+        "Proteins": "20.4",
+        "Fats": "5.1",
+        "Carbohydrates": "37.0",
+        "Calories": "311"
+    },
+    {
+        "Title": "Амарантовые отруби Di&Di с топинамбуром",
+        "Proteins": "19.0",
+        "Fats": "5.5",
+        "Carbohydrates": "55.0",
+        "Calories": "345"
+    },
+    {
+        "Title": "Булгур",
+        "Proteins": "12.3",
+        "Fats": "1.3",
+        "Carbohydrates": "57.6",
+        "Calories": "342"
+    },
+    {
+        "Title": "Булгур Yelli с белыми грибами",
+        "Proteins": "14.0",
+        "Fats": "2.0",
+        "Carbohydrates": "64.0",
+        "Calories": "330"
+    },
+    {
+        "Title": "Булгур Готово! с овощами",
+        "Proteins": "13.0",
+        "Fats": "1.5",
+        "Carbohydrates": "67.0",
+        "Calories": "330"
+    },
+    {
+        "Title": "Булгур Мистраль",
+        "Proteins": "14.2",
+        "Fats": "1.1",
+        "Carbohydrates": "73.4",
+        "Calories": "343"
+    },
+    {
+        "Title": "Булгур приготовленный",
+        "Proteins": "3.1",
+        "Fats": "0.2",
+        "Carbohydrates": "14.1",
+        "Calories": "83"
+    },
+    {
+        "Title": "Гарнир Националь бурый рис, киноа и семена льна",
+        "Proteins": "9.3",
+        "Fats": "8.2",
+        "Carbohydrates": "68.6",
+        "Calories": "385"
+    },
+    {
+        "Title": "Гарнир Националь рис, киноа, тыква",
+        "Proteins": "10.6",
+        "Fats": "8.6",
+        "Carbohydrates": "67.3",
+        "Calories": "389"
+    },
+    {
+        "Title": "Горох Makfa дробленый в пакетиках",
+        "Proteins": "23.0",
+        "Fats": "1.5",
+        "Carbohydrates": "48.1",
+        "Calories": "299"
+    },
+    {
+        "Title": "Горох Makfa колотый",
+        "Proteins": "23.0",
+        "Fats": "1.5",
+        "Carbohydrates": "48.1",
+        "Calories": "299"
+    },
+    {
+        "Title": "Горох Агро-Альянс колотый",
+        "Proteins": "23.0",
+        "Fats": "1.0",
+        "Carbohydrates": "62.0",
+        "Calories": "350"
+    },
+    {
+        "Title": "Горох маш Ярмарка Платинум",
+        "Proteins": "23.5",
+        "Fats": "2.0",
+        "Carbohydrates": "50.0",
+        "Calories": "312"
+    },
+    {
+        "Title": "Горох Мистраль Айдахо",
+        "Proteins": "20.8",
+        "Fats": "1.4",
+        "Carbohydrates": "55.2",
+        "Calories": "317"
+    },
+    {
+        "Title": "Горох Мистраль Орегон",
+        "Proteins": "20.0",
+        "Fats": "1.5",
+        "Carbohydrates": "66.4",
+        "Calories": "327"
+    },
+    {
+        "Title": "Горох Пассим колотый",
+        "Proteins": "23.0",
+        "Fats": "1.6",
+        "Carbohydrates": "48.1",
+        "Calories": "299"
+    },
+    {
+        "Title": "Горох Увелка колотый",
+        "Proteins": "20.0",
+        "Fats": "2.0",
+        "Carbohydrates": "67.0",
+        "Calories": "360"
+    },
+    {
+        "Title": "Готовый завтрак Nestle Kosmostars звездочки и галактики медовые",
+        "Proteins": "7.2",
+        "Fats": "5.0",
+        "Carbohydrates": "76.2",
+        "Calories": "400"
+    },
+    {
+        "Title": "Гречка Yelli с белыми грибами",
+        "Proteins": "13.0",
+        "Fats": "3.5",
+        "Carbohydrates": "52.0",
+        "Calories": "290"
+    },
+    {
+        "Title": "Гречка зелёная вареная",
+        "Proteins": "4.0",
+        "Fats": "1.0",
+        "Carbohydrates": "21.0",
+        "Calories": "110"
+    },
+    {
+        "Title": "Гречка зелёная для проращивания",
+        "Proteins": "10.8",
+        "Fats": "3.2",
+        "Carbohydrates": "54.4",
+        "Calories": "295"
+    },
+    {
+        "Title": "Гречневая каша вязкая на воде",
+        "Proteins": "3.2",
+        "Fats": "0.8",
+        "Carbohydrates": "17.1",
+        "Calories": "90"
+    },
+    {
+        "Title": "Гречневая каша из крупы ядрица",
+        "Proteins": "3.0",
+        "Fats": "3.4",
+        "Carbohydrates": "14.6",
+        "Calories": "101"
+    },
+    {
+        "Title": "Гречневая каша на молоке",
+        "Proteins": "4.2",
+        "Fats": "2.3",
+        "Carbohydrates": "21.6",
+        "Calories": "118"
+    },
+    {
+        "Title": "Гречневая каша с маслом",
+        "Proteins": "4.5",
+        "Fats": "2.3",
+        "Carbohydrates": "25.0",
+        "Calories": "132"
+    },
+    {
+        "Title": "Гречневая крупа (продел)",
+        "Proteins": "9.5",
+        "Fats": "2.3",
+        "Carbohydrates": "65.9",
+        "Calories": "306"
+    },
+    {
+        "Title": "Гречневая крупа (ядрица)",
+        "Proteins": "12.6",
+        "Fats": "3.3",
+        "Carbohydrates": "62.1",
+        "Calories": "313"
+    },
+    {
+        "Title": "Гречневая крупа (ядрица) зелёная",
+        "Proteins": "10.8",
+        "Fats": "3.2",
+        "Carbohydrates": "56.0",
+        "Calories": "296"
+    },
+    {
+        "Title": "Гречневая крупа Makfa Экстра в пакетиках",
+        "Proteins": "13.0",
+        "Fats": "3.5",
+        "Carbohydrates": "57.0",
+        "Calories": "310"
+    },
+    {
+        "Title": "Гречневая крупа Агро-Альянс Элитная",
+        "Proteins": "13.0",
+        "Fats": "3.0",
+        "Carbohydrates": "68.0",
+        "Calories": "350"
+    },
+    {
+        "Title": "Гречневая крупа Мистраль зеленая",
+        "Proteins": "13.4",
+        "Fats": "3.0",
+        "Carbohydrates": "68.0",
+        "Calories": "328"
+    },
+    {
+        "Title": "Гречневая крупа Мистраль ядрица",
+        "Proteins": "13.6",
+        "Fats": "3.3",
+        "Carbohydrates": "65.0",
+        "Calories": "353"
+    },
+    {
+        "Title": "Гречневая крупа Пассим Алтайская",
+        "Proteins": "12.6",
+        "Fats": "2.6",
+        "Carbohydrates": "68.0",
+        "Calories": "329"
+    },
+    {
+        "Title": "Гречневая манка Гарнец безглютеновая",
+        "Proteins": "12.5",
+        "Fats": "2.5",
+        "Carbohydrates": "70.0",
+        "Calories": "350"
+    },
+    {
+        "Title": "Гречневые хлопья",
+        "Proteins": "9.0",
+        "Fats": "2.4",
+        "Carbohydrates": "67.0",
+        "Calories": "330"
+    },
+    {
+        "Title": "Гречневые хлопья Makfa",
+        "Proteins": "8.0",
+        "Fats": "3.0",
+        "Carbohydrates": "79.0",
+        "Calories": "375"
+    },
+    {
+        "Title": "Гречневые хлопья Myllyn Paras",
+        "Proteins": "13.0",
+        "Fats": "1.7",
+        "Carbohydrates": "67.5",
+        "Calories": "340"
+    },
+    {
+        "Title": "Гречневые хлопья Myllyn Paras для каши",
+        "Proteins": "13.0",
+        "Fats": "1.7",
+        "Carbohydrates": "67.5",
+        "Calories": "340"
+    },
+    {
+        "Title": "Гречневые хлопья Агро-Альянс",
+        "Proteins": "11.0",
+        "Fats": "2.0",
+        "Carbohydrates": "74.0",
+        "Calories": "370"
+    },
+    {
+        "Title": "Гречневые хлопья Алтайская сказка",
+        "Proteins": "12.8",
+        "Fats": "3.4",
+        "Carbohydrates": "66.1",
+        "Calories": "346"
+    },
+    {
+        "Title": "Гречневые хлопья Мистраль",
+        "Proteins": "12.6",
+        "Fats": "2.3",
+        "Carbohydrates": "59.0",
+        "Calories": "345"
+    },
+    {
+        "Title": "Гречневые хлопья Пассим",
+        "Proteins": "9.5",
+        "Fats": "2.3",
+        "Carbohydrates": "65.8",
+        "Calories": "322"
+    },
+    {
+        "Title": "Каша 4-х зерновая Myllyn Paras",
+        "Proteins": "11.4",
+        "Fats": "2.8",
+        "Carbohydrates": "61.1",
+        "Calories": "320"
+    },
+    {
+        "Title": "Каша 7 злаков Маtti",
+        "Proteins": "12.0",
+        "Fats": "5.0",
+        "Carbohydrates": "56.0",
+        "Calories": "320"
+    },
+    {
+        "Title": "Киноа",
+        "Proteins": "14.1",
+        "Fats": "6.1",
+        "Carbohydrates": "57.2",
+        "Calories": "368"
+    },
+    {
+        "Title": "Киноа Мистраль",
+        "Proteins": "14.0",
+        "Fats": "6.0",
+        "Carbohydrates": "64.0",
+        "Calories": "368"
+    },
+    {
+        "Title": "Котлеты гречневые Мистраль",
+        "Proteins": "12.0",
+        "Fats": "3.0",
+        "Carbohydrates": "58.0",
+        "Calories": "310"
+    },
+    {
+        "Title": "Котлеты нутовые Вкусное дело",
+        "Proteins": "20.8",
+        "Fats": "1.8",
+        "Carbohydrates": "49.7",
+        "Calories": "288"
+    },
+    {
+        "Title": "Котлеты нутовые Мистраль",
+        "Proteins": "12.0",
+        "Fats": "12.0",
+        "Carbohydrates": "53.0",
+        "Calories": "360"
+    },
+    {
+        "Title": "Котлеты чечевичные Вкусное дело",
+        "Proteins": "19.2",
+        "Fats": "2.2",
+        "Carbohydrates": "54.8",
+        "Calories": "307"
+    },
+    {
+        "Title": "Крупа Увелка Дружба рис и пшено",
+        "Proteins": "8.0",
+        "Fats": "1.0",
+        "Carbohydrates": "77.0",
+        "Calories": "350"
+    },
+    {
+        "Title": "Кукурузная крупа",
+        "Proteins": "8.3",
+        "Fats": "1.2",
+        "Carbohydrates": "75.0",
+        "Calories": "337"
+    },
+    {
+        "Title": "Кукурузная крупа Makfa",
+        "Proteins": "8.3",
+        "Fats": "1.2",
+        "Carbohydrates": "71.0",
+        "Calories": "328"
+    },
+    {
+        "Title": "Кукурузная крупа Makfa в пакетиках",
+        "Proteins": "8.3",
+        "Fats": "1.2",
+        "Carbohydrates": "71.0",
+        "Calories": "328"
+    },
+    {
+        "Title": "Кукурузная манка Гарнец безглютеновая",
+        "Proteins": "23.0",
+        "Fats": "1.6",
+        "Carbohydrates": "50.8",
+        "Calories": "314"
+    },
+    {
+        "Title": "Кукурузные хлопья",
+        "Proteins": "6.9",
+        "Fats": "2.5",
+        "Carbohydrates": "83.6",
+        "Calories": "363"
+    },
+    {
+        "Title": "Кукурузные хлопья 365 дней",
+        "Proteins": "7.5",
+        "Fats": "1.5",
+        "Carbohydrates": "78.0",
+        "Calories": "360"
+    },
+    {
+        "Title": "Кукурузные хлопья Алтайская сказка",
+        "Proteins": "8.3",
+        "Fats": "1.2",
+        "Carbohydrates": "75.0",
+        "Calories": "325"
+    },
+    {
+        "Title": "Кукурузные хлопья На здоровье Кунцево",
+        "Proteins": "6.5",
+        "Fats": "1.0",
+        "Carbohydrates": "89.0",
+        "Calories": "390"
+    },
+    {
+        "Title": "Кус-кус приготовленный",
+        "Proteins": "3.8",
+        "Fats": "0.2",
+        "Carbohydrates": "21.8",
+        "Calories": "112"
+    },
+    {
+        "Title": "Кус-кус сухой",
+        "Proteins": "12.8",
+        "Fats": "0.6",
+        "Carbohydrates": "72.4",
+        "Calories": "376"
+    },
+    {
+        "Title": "Кускус Агро-Альянс",
+        "Proteins": "12.0",
+        "Fats": "2.5",
+        "Carbohydrates": "75.0",
+        "Calories": "370"
+    },
+    {
+        "Title": "Кускус Готово! с томатами",
+        "Proteins": "13.0",
+        "Fats": "1.6",
+        "Carbohydrates": "73.0",
+        "Calories": "350"
+    },
+    {
+        "Title": "Льняная каша Лакомства для здоровья с кэробом и кунжутом",
+        "Proteins": "17.0",
+        "Fats": "37.0",
+        "Carbohydrates": "31.0",
+        "Calories": "500"
+    },
+    {
+        "Title": "Льняная каша с кунжутом",
+        "Proteins": "34.0",
+        "Fats": "14.0",
+        "Carbohydrates": "12.0",
+        "Calories": "312"
+    },
+    {
+        "Title": "Льняные отруби Dr. Dias",
+        "Proteins": "30.0",
+        "Fats": "10.0",
+        "Carbohydrates": "10.0",
+        "Calories": "250"
+    },
+    {
+        "Title": "Льняные отруби Dr. Dias с семечкой",
+        "Proteins": "30.0",
+        "Fats": "10.0",
+        "Carbohydrates": "10.0",
+        "Calories": "250"
+    },
+    {
+        "Title": "Манная каша на воде",
+        "Proteins": "2.5",
+        "Fats": "0.2",
+        "Carbohydrates": "16.8",
+        "Calories": "80"
+    },
+    {
+        "Title": "Манная каша на молоке",
+        "Proteins": "3.0",
+        "Fats": "3.2",
+        "Carbohydrates": "15.3",
+        "Calories": "98"
+    },
+    {
+        "Title": "Манная крупа",
+        "Proteins": "10.3",
+        "Fats": "1.0",
+        "Carbohydrates": "67.4",
+        "Calories": "328"
+    },
+    {
+        "Title": "Манная крупа Makfa",
+        "Proteins": "10.3",
+        "Fats": "1.0",
+        "Carbohydrates": "70.6",
+        "Calories": "333"
+    },
+    {
+        "Title": "Манная крупа Myllyn Paras",
+        "Proteins": "12.0",
+        "Fats": "2.0",
+        "Carbohydrates": "69.0",
+        "Calories": "348"
+    },
+    {
+        "Title": "Манная крупа Агро-Альянс",
+        "Proteins": "10.0",
+        "Fats": "1.0",
+        "Carbohydrates": "69.0",
+        "Calories": "330"
+    },
+    {
+        "Title": "Манная крупа Мистраль Семолина",
+        "Proteins": "14.1",
+        "Fats": "1.6",
+        "Carbohydrates": "69.7",
+        "Calories": "348"
+    },
+    {
+        "Title": "Манная крупа с отрубями БИО Черный хлеб",
+        "Proteins": "13.1",
+        "Fats": "4.6",
+        "Carbohydrates": "61.5",
+        "Calories": "340"
+    },
+    {
+        "Title": "Мюсли AXA хрустящие медовые с фруктами и орехами",
+        "Proteins": "7.8",
+        "Fats": "13.1",
+        "Carbohydrates": "56.7",
+        "Calories": "376"
+    },
+    {
+        "Title": "Мюсли Horeca Select с фруктами и орехами",
+        "Proteins": "11.4",
+        "Fats": "7.8",
+        "Carbohydrates": "56.7",
+        "Calories": "363"
+    },
+    {
+        "Title": "Мюсли Matti Банан и Шоколад",
+        "Proteins": "7.0",
+        "Fats": "13.0",
+        "Carbohydrates": "62.0",
+        "Calories": "390"
+    },
+    {
+        "Title": "Жир бараний топлёный",
+        "Proteins": "0.0",
+        "Fats": "99.7",
+        "Carbohydrates": "0.0",
+        "Calories": "897"
+    },
+    {
+        "Title": "Жир говяжий топлёный",
+        "Proteins": "0.0",
+        "Fats": "99.7",
+        "Carbohydrates": "0.0",
+        "Calories": "897"
+    },
+    {
+        "Title": "Жир из печени трески",
+        "Proteins": "0.0",
+        "Fats": "99.8",
+        "Carbohydrates": "0.0",
+        "Calories": "898"
+    },
+    {
+        "Title": "Жир кондитерский для шоколадных изделий",
+        "Proteins": "0.0",
+        "Fats": "99.7",
+        "Carbohydrates": "0.0",
+        "Calories": "897"
+    },
+    {
+        "Title": "Жир кондитерский твердый",
+        "Proteins": "0.0",
+        "Fats": "99.8",
+        "Carbohydrates": "0.0",
+        "Calories": "898"
+    },
+    {
+        "Title": "Жир костный топлёный",
+        "Proteins": "0.0",
+        "Fats": "99.7",
+        "Carbohydrates": "0.0",
+        "Calories": "897"
+    },
+    {
+        "Title": "Жир кулинарный",
+        "Proteins": "0.0",
+        "Fats": "99.7",
+        "Carbohydrates": "0.0",
+        "Calories": "897"
+    },
+    {
+        "Title": "Жир куриный",
+        "Proteins": "0.0",
+        "Fats": "99.7",
+        "Carbohydrates": "0.0",
+        "Calories": "897"
+    },
+    {
+        "Title": "Жир рыбий",
+        "Proteins": "0.0",
+        "Fats": "100.0",
+        "Carbohydrates": "0.0",
+        "Calories": "902"
+    },
+    {
+        "Title": "Жир свиной топлёный",
+        "Proteins": "0.0",
+        "Fats": "99.6",
+        "Carbohydrates": "0.0",
+        "Calories": "896"
+    },
+    {
+        "Title": "Маргарин низкокалорийный",
+        "Proteins": "0.5",
+        "Fats": "60.0",
+        "Carbohydrates": "0.7",
+        "Calories": "545"
+    },
+    {
+        "Title": "Маргарин Славянский",
+        "Proteins": "0.3",
+        "Fats": "82.0",
+        "Carbohydrates": "0.1",
+        "Calories": "743"
+    },
+    {
+        "Title": "Маргарин сливочный",
+        "Proteins": "0.5",
+        "Fats": "82.0",
+        "Carbohydrates": "0.0",
+        "Calories": "745"
+    },
+    {
+        "Title": "Маргарин столовый молочный",
+        "Proteins": "0.3",
+        "Fats": "82.0",
+        "Carbohydrates": "1.0",
+        "Calories": "743"
+    },
+    {
+        "Title": "Маргарин столовый Сливочник 40%",
+        "Proteins": "0.0",
+        "Fats": "40.0",
+        "Carbohydrates": "0.0",
+        "Calories": "360"
+    },
+    {
+        "Title": "Маргарин Экстра",
+        "Proteins": "0.5",
+        "Fats": "82.0",
+        "Carbohydrates": "1.0",
+        "Calories": "744"
+    },
+    {
+        "Title": "Масло абрикосовое",
+        "Proteins": "0.0",
+        "Fats": "99.9",
+        "Carbohydrates": "0.0",
+        "Calories": "899"
+    },
+    {
+        "Title": "Масло авокадо",
+        "Proteins": "0.0",
+        "Fats": "100.0",
+        "Carbohydrates": "0.0",
+        "Calories": "884"
+    },
+    {
+        "Title": "Масло амаранта",
+        "Proteins": "0.0",
+        "Fats": "81.8",
+        "Carbohydrates": "0.0",
+        "Calories": "736"
+    },
+    {
+        "Title": "Масло арахисовое",
+        "Proteins": "0.0",
+        "Fats": "99.9",
+        "Carbohydrates": "0.0",
+        "Calories": "899"
+    },
+    {
+        "Title": "Масло арахисовое PB2 сухое обезжиренное",
+        "Proteins": "37.5",
+        "Fats": "8.3",
+        "Carbohydrates": "37.5",
+        "Calories": "375"
+    },
+    {
+        "Title": "Масло виноградных косточек",
+        "Proteins": "0.0",
+        "Fats": "99.9",
+        "Carbohydrates": "0.0",
+        "Calories": "899"
+    },
+    {
+        "Title": "Масло горчичное",
+        "Proteins": "0.0",
+        "Fats": "99.8",
+        "Carbohydrates": "0.0",
+        "Calories": "898"
+    },
+    {
+        "Title": "Масло грецкого ореха",
+        "Proteins": "0.0",
+        "Fats": "99.8",
+        "Carbohydrates": "0.0",
+        "Calories": "898"
+    },
+    {
+        "Title": "Масло гхи топлёное",
+        "Proteins": "0.0",
+        "Fats": "100.0",
+        "Carbohydrates": "0.0",
+        "Calories": "902"
+    },
+    {
+        "Title": "Масло гхи топлёное МакЛарин с базиликом",
+        "Proteins": "0.0",
+        "Fats": "99.0",
+        "Carbohydrates": "0.0",
+        "Calories": "891"
+    },
+    {
+        "Title": "Масло зародышей пшеницы",
+        "Proteins": "0.0",
+        "Fats": "100.0",
+        "Carbohydrates": "0.0",
+        "Calories": "884"
+    },
+    {
+        "Title": "Масло иланг-иланга",
+        "Proteins": "0.0",
+        "Fats": "99.0",
+        "Carbohydrates": "0.0",
+        "Calories": "890"
+    },
+    {
+        "Title": "Масло какао",
+        "Proteins": "0.0",
+        "Fats": "99.9",
+        "Carbohydrates": "0.0",
+        "Calories": "899"
+    },
+    {
+        "Title": "Масло канолы",
+        "Proteins": "0.0",
+        "Fats": "99.0",
+        "Carbohydrates": "0.0",
+        "Calories": "898"
+    },
+    {
+        "Title": "Масло кедрового ореха",
+        "Proteins": "0.0",
+        "Fats": "99.0",
+        "Carbohydrates": "0.0",
+        "Calories": "898"
+    },
+    {
+        "Title": "Масло кокосовое",
+        "Proteins": "0.0",
+        "Fats": "99.9",
+        "Carbohydrates": "0.0",
+        "Calories": "899"
+    },
+    {
+        "Title": "Масло кокосовое Nutiva с ароматом сливочного масла",
+        "Proteins": "0.0",
+        "Fats": "100.0",
+        "Carbohydrates": "0.0",
+        "Calories": "923"
+    },
+    {
+        "Title": "Масло кокосовое Tropicana",
+        "Proteins": "12.0",
+        "Fats": "87.7",
+        "Carbohydrates": "2.9",
+        "Calories": "802"
+    },
+    {
+        "Title": "Масло конопляное",
+        "Proteins": "0.0",
+        "Fats": "99.9",
+        "Carbohydrates": "0.0",
+        "Calories": "899"
+    },
+    {
+        "Title": "Масло кукурузное",
+        "Proteins": "0.0",
+        "Fats": "99.9",
+        "Carbohydrates": "0.0",
+        "Calories": "899"
+    },
+    {
+        "Title": "Масло кунжутное",
+        "Proteins": "0.0",
+        "Fats": "99.9",
+        "Carbohydrates": "0.0",
+        "Calories": "899"
+    },
+    {
+        "Title": "Масло лимонное",
+        "Proteins": "0.0",
+        "Fats": "100.0",
+        "Carbohydrates": "0.0",
+        "Calories": "900"
+    },
+    {
+        "Title": "Масло льняное",
+        "Proteins": "0.0",
+        "Fats": "99.8",
+        "Carbohydrates": "0.0",
+        "Calories": "898"
+    },
+    {
+        "Title": "Масло макадамии",
+        "Proteins": "9.2",
+        "Fats": "74.6",
+        "Carbohydrates": "10.0",
+        "Calories": "708"
+    },
+    {
+        "Title": "Масло маковое",
+        "Proteins": "0.0",
+        "Fats": "99.8",
+        "Carbohydrates": "0.0",
+        "Calories": "898"
+    },
+    {
+        "Title": "Масло миндальное",
+        "Proteins": "0.0",
+        "Fats": "90.7",
+        "Carbohydrates": "0.0",
+        "Calories": "816"
+    },
+    {
+        "Title": "Масло мускатного ореха",
+        "Proteins": "0.0",
+        "Fats": "100.0",
+        "Carbohydrates": "0.1",
+        "Calories": "899"
+    },
+    {
+        "Title": "Масло облепиховое",
+        "Proteins": "0.0",
+        "Fats": "99.5",
+        "Carbohydrates": "0.0",
+        "Calories": "896"
+    },
+    {
+        "Title": "Масло овсяное",
+        "Proteins": "0.0",
+        "Fats": "99.0",
+        "Carbohydrates": "0.0",
+        "Calories": "890"
+    },
+    {
+        "Title": "Масло оливковое",
+        "Proteins": "0.0",
+        "Fats": "99.8",
+        "Carbohydrates": "0.0",
+        "Calories": "898"
+    },
+    {
+        "Title": "Масло оливковое Filippo Berio Olive Oil",
+        "Proteins": "0.0",
+        "Fats": "91.3",
+        "Carbohydrates": "0.0",
+        "Calories": "822"
+    },
+    {
+        "Title": "Масло оливковое Monini Classico Extra Vergine",
+        "Proteins": "0.0",
+        "Fats": "100.0",
+        "Carbohydrates": "0.0",
+        "Calories": "900"
+    },
+    {
+        "Title": "Масло ореховое",
+        "Proteins": "0.0",
+        "Fats": "100.0",
+        "Carbohydrates": "0.0",
+        "Calories": "899"
+    },
+    {
+        "Title": "Масло пальмовое",
+        "Proteins": "0.0",
+        "Fats": "99.9",
+        "Carbohydrates": "0.0",
+        "Calories": "899"
+    },
+    {
+        "Title": "Масло подсолнечное",
+        "Proteins": "0.0",
+        "Fats": "99.9",
+        "Carbohydrates": "0.0",
+        "Calories": "900"
+    },
+    {
+        "Title": "Масло рапсово-соевое",
+        "Proteins": "0.0",
+        "Fats": "99.9",
+        "Carbohydrates": "0.0",
+        "Calories": "899"
+    },
+    {
+        "Title": "Масло рапсовое",
+        "Proteins": "0.0",
+        "Fats": "99.9",
+        "Carbohydrates": "0.0",
+        "Calories": "899"
+    },
+    {
+        "Title": "Масло растительное нерафинированное",
+        "Proteins": "0.0",
+        "Fats": "99.0",
+        "Carbohydrates": "0.0",
+        "Calories": "899"
+    },
+    {
+        "Title": "Масло растительное рафинированное",
+        "Proteins": "0.0",
+        "Fats": "99.0",
+        "Carbohydrates": "0.0",
+        "Calories": "899"
+    },
+    {
+        "Title": "Масло расторопши",
+        "Proteins": "0.0",
+        "Fats": "98.0",
+        "Carbohydrates": "0.0",
+        "Calories": "889"
+    },
+    {
+        "Title": "Масло репейное",
+        "Proteins": "0.0",
+        "Fats": "100.0",
+        "Carbohydrates": "0.0",
+        "Calories": "930"
+    },
+    {
+        "Title": "Масло рисовое Kohinoor Rice Bran Oil",
+        "Proteins": "0.0",
+        "Fats": "91.5",
+        "Carbohydrates": "0.0",
+        "Calories": "824"
+    },
+    {
+        "Title": "Масло рыжиковое",
+        "Proteins": "0.0",
+        "Fats": "99.0",
+        "Carbohydrates": "0.0",
+        "Calories": "900"
+    },
+    {
+        "Title": "Масло сафлоровое",
+        "Proteins": "0.0",
+        "Fats": "100.0",
+        "Carbohydrates": "0.0",
+        "Calories": "880"
+    },
+    {
+        "Title": "Масло сливочное",
+        "Proteins": "0.5",
+        "Fats": "82.5",
+        "Carbohydrates": "0.8",
+        "Calories": "748"
+    },
+    {
+        "Title": "Масло сливочное 60%",
+        "Proteins": "1.3",
+        "Fats": "60.0",
+        "Carbohydrates": "1.7",
+        "Calories": "552"
+    },
+    {
+        "Title": "Масло сливочное 67%",
+        "Proteins": "1.0",
+        "Fats": "67.0",
+        "Carbohydrates": "1.6",
+        "Calories": "610"
+    },
+    {
+        "Title": "Масло сливочное Брест-Литовск несолёное 72.5%",
+        "Proteins": "0.8",
+        "Fats": "72.5",
+        "Carbohydrates": "1.3",
+        "Calories": "661"
+    },
+    {
+        "Title": "Масло сливочное Валио 82%",
+        "Proteins": "0.7",
+        "Fats": "82.0",
+        "Carbohydrates": "0.7",
+        "Calories": "740"
+    },
+    {
+        "Title": "Масло сливочное Вкуснотеево традиционное 82.5%",
+        "Proteins": "0.6",
+        "Fats": "82.5",
+        "Carbohydrates": "0.8",
+        "Calories": "748"
+    },
+    {
+        "Title": "Масло сливочное крестьянское несолёное 72.5%",
+        "Proteins": "1.0",
+        "Fats": "72.5",
+        "Carbohydrates": "1.4",
+        "Calories": "662"
+    },
+    {
+        "Title": "Масло сливочное крестьянское солёное 72.5%",
+        "Proteins": "1.0",
+        "Fats": "72.5",
+        "Carbohydrates": "1.4",
+        "Calories": "662"
+    },
+    {
+        "Title": "Масло сливочное Светаево 82.5%",
+        "Proteins": "0.6",
+        "Fats": "82.5",
+        "Carbohydrates": "0.8",
+        "Calories": "750"
+    },
+    {
+        "Title": "Масло сливочное шоколадное",
+        "Proteins": "1.5",
+        "Fats": "62.0",
+        "Carbohydrates": "18.6",
+        "Calories": "642"
+    },
+    {
+        "Title": "Масло сливочное шоколадное Избёнка (ВкусВилл) 62%",
+        "Proteins": "1.2",
+        "Fats": "62.0",
+        "Carbohydrates": "19.6",
+        "Calories": "644"
+    },
+    {
+        "Title": "Масло соевое",
+        "Proteins": "0.0",
+        "Fats": "99.9",
+        "Carbohydrates": "0.0",
+        "Calories": "899"
+    },
+    {
+        "Title": "Масло топлёное",
+        "Proteins": "0.2",
+        "Fats": "99.0",
+        "Carbohydrates": "0.0",
+        "Calories": "892"
+    },
+    {
+        "Title": "Масло топлёное МакЛарин с чёрным трюфелем",
+        "Proteins": "0.0",
+        "Fats": "99.0",
+        "Carbohydrates": "0.0",
+        "Calories": "890"
+    },
+    {
+        "Title": "Масло тыквенное",
+        "Proteins": "0.0",
+        "Fats": "99.5",
+        "Carbohydrates": "0.0",
+        "Calories": "896"
+    },
+    {
+        "Title": "Масло хлопковое",
+        "Proteins": "0.0",
+        "Fats": "99.0",
+        "Carbohydrates": "0.0",
+        "Calories": "899"
+    },
+    {
+        "Title": "Масло ши (карите)",
+        "Proteins": "0.0",
+        "Fats": "98.0",
+        "Carbohydrates": "0.0",
+        "Calories": "884"
+    },
+    {
+        "Title": "Масло шишек хмеля",
+        "Proteins": "0.0",
+        "Fats": "99.0",
+        "Carbohydrates": "0.0",
+        "Calories": "897"
+    },
+    {
+        "Title": "Спред растительно-жировой Нежный",
+        "Proteins": "0.0",
+        "Fats": "40.0",
+        "Carbohydrates": "0.0",
+        "Calories": "360"
+    },
+    {
+        "Title": "Тахина",
+        "Proteins": "24.0",
+        "Fats": "62.0",
+        "Carbohydrates": "10.0",
+        "Calories": "695"
+    },
+    {
+        "Title": "Actimel Вишня",
+        "Proteins": "2.9",
+        "Fats": "1.5",
+        "Carbohydrates": "11.5",
+        "Calories": "74"
+    },
+    {
+        "Title": "Actimel Гранат",
+        "Proteins": "2.7",
+        "Fats": "1.5",
+        "Carbohydrates": "11.5",
+        "Calories": "73"
+    },
+    {
+        "Title": "Actimel Земляника и шиповник",
+        "Proteins": "2.7",
+        "Fats": "1.5",
+        "Carbohydrates": "11.5",
+        "Calories": "73"
+    },
+    {
+        "Title": "Actimel Клубника",
+        "Proteins": "2.7",
+        "Fats": "1.5",
+        "Carbohydrates": "11.5",
+        "Calories": "72"
+    },
+    {
+        "Title": "Actimel Малина и клюква",
+        "Proteins": "2.7",
+        "Fats": "1.5",
+        "Carbohydrates": "11.5",
+        "Calories": "72"
+    },
+    {
+        "Title": "Actimel Мультифрукт",
+        "Proteins": "2.7",
+        "Fats": "1.5",
+        "Carbohydrates": "12.0",
+        "Calories": "75"
+    },
+    {
+        "Title": "Actimel Натуральный",
+        "Proteins": "2.8",
+        "Fats": "1.6",
+        "Carbohydrates": "10.5",
+        "Calories": "71"
+    },
+    {
+        "Title": "Actimel Черника и ежевика",
+        "Proteins": "2.9",
+        "Fats": "1.5",
+        "Carbohydrates": "11.5",
+        "Calories": "74"
+    },
+    {
+        "Title": "Exponenta High-Pro Черника-Алоэ",
+        "Proteins": "12.0",
+        "Fats": "0.0",
+        "Carbohydrates": "2.5",
+        "Calories": "60"
+    },
+    {
+        "Title": "Fruttis Сливочное лакомство Клубника-Земляника",
+        "Proteins": "2.2",
+        "Fats": "5.0",
+        "Carbohydrates": "17.0",
+        "Calories": "122"
+    },
+    {
+        "Title": "Neo Имунеле Natural",
+        "Proteins": "1.8",
+        "Fats": "0.9",
+        "Carbohydrates": "11.8",
+        "Calories": "63"
+    },
+    {
+        "Title": "Neo Имунеле Гранат-Вишня",
+        "Proteins": "2.5",
+        "Fats": "1.2",
+        "Carbohydrates": "12.4",
+        "Calories": "70"
+    },
+    {
+        "Title": "Neo Имунеле Клюква-Малина",
+        "Proteins": "2.5",
+        "Fats": "1.2",
+        "Carbohydrates": "12.6",
+        "Calories": "71"
+    },
+    {
+        "Title": "Neo Имунеле Лесные ягоды",
+        "Proteins": "2.5",
+        "Fats": "1.2",
+        "Carbohydrates": "13.1",
+        "Calories": "73"
+    },
+    {
+        "Title": "Айран (тан) газированный",
+        "Proteins": "1.1",
+        "Fats": "1.5",
+        "Carbohydrates": "1.4",
+        "Calories": "24"
+    },
+    {
+        "Title": "Айран (тан) из козьего молока",
+        "Proteins": "1.1",
+        "Fats": "1.5",
+        "Carbohydrates": "1.4",
+        "Calories": "24"
+    },
+    {
+        "Title": "Айран (тан) негазированный",
+        "Proteins": "1.1",
+        "Fats": "1.5",
+        "Carbohydrates": "1.4",
+        "Calories": "24"
+    },
+    {
+        "Title": "Айран (тан) негазированный нежирный",
+        "Proteins": "1.1",
+        "Fats": "0.2",
+        "Carbohydrates": "1.4",
+        "Calories": "12"
+    },
+    {
+        "Title": "Айран (тан) с укропом и огурцом",
+        "Proteins": "1.1",
+        "Fats": "1.0",
+        "Carbohydrates": "1.4",
+        "Calories": "19"
+    },
+    {
+        "Title": "Айран (тан) сильногазированный",
+        "Proteins": "1.1",
+        "Fats": "1.0",
+        "Carbohydrates": "1.4",
+        "Calories": "19"
+    },
+    {
+        "Title": "Активиа Быстрый завтрак Клубника",
+        "Proteins": "4.3",
+        "Fats": "2.8",
+        "Carbohydrates": "20.9",
+        "Calories": "127"
+    },
+    {
+        "Title": "Активиа Быстрый завтрак Натуральный",
+        "Proteins": "4.8",
+        "Fats": "3.1",
+        "Carbohydrates": "14.4",
+        "Calories": "107"
+    },
+    {
+        "Title": "Активиа Быстрый завтрак с овсянкой Яблоко-Груша",
+        "Proteins": "3.6",
+        "Fats": "3.1",
+        "Carbohydrates": "16.7",
+        "Calories": "110"
+    },
+    {
+        "Title": "Активиа Кефирная 1%",
+        "Proteins": "2.9",
+        "Fats": "1.0",
+        "Carbohydrates": "4.5",
+        "Calories": "39"
+    },
+    {
+        "Title": "Активиа Кефирная 3%",
+        "Proteins": "2.9",
+        "Fats": "3.0",
+        "Carbohydrates": "3.6",
+        "Calories": "53"
+    },
+    {
+        "Title": "Активиа Момент удовольствия Вишня",
+        "Proteins": "4.3",
+        "Fats": "2.7",
+        "Carbohydrates": "13.7",
+        "Calories": "97"
+    },
+    {
+        "Title": "Активиа Момент удовольствия Земляника",
+        "Proteins": "4.3",
+        "Fats": "2.7",
+        "Carbohydrates": "12.9",
+        "Calories": "97"
+    },
+    {
+        "Title": "Активиа Питьевая Ананас",
+        "Proteins": "2.8",
+        "Fats": "2.0",
+        "Carbohydrates": "12.2",
+        "Calories": "77"
+    },
+    {
+        "Title": "Активиа Питьевая Бифидойогурт Классический 1.5%",
+        "Proteins": "3.4",
+        "Fats": "1.5",
+        "Carbohydrates": "4.4",
+        "Calories": "45"
+    },
+    {
+        "Title": "Активиа Питьевая Вишня и чёрная смородина",
+        "Proteins": "2.6",
+        "Fats": "2.0",
+        "Carbohydrates": "12.8",
+        "Calories": "81"
+    },
+    {
+        "Title": "Активиа Питьевая Злаки",
+        "Proteins": "2.8",
+        "Fats": "2.2",
+        "Carbohydrates": "12.4",
+        "Calories": "81"
+    },
+    {
+        "Title": "Активиа Питьевая Клубника и земляника",
+        "Proteins": "2.8",
+        "Fats": "2.2",
+        "Carbohydrates": "12.4",
+        "Calories": "81"
+    },
+    {
+        "Title": "Активиа Питьевая Малина и злаки",
+        "Proteins": "2.8",
+        "Fats": "2.1",
+        "Carbohydrates": "11.0",
+        "Calories": "74"
+    },
+    {
+        "Title": "Активиа Питьевая Натуральная",
+        "Proteins": "3.2",
+        "Fats": "2.4",
+        "Carbohydrates": "4.5",
+        "Calories": "52"
+    },
+    {
+        "Title": "Активиа Питьевая Тыква банан и корица",
+        "Proteins": "2.9",
+        "Fats": "2.1",
+        "Carbohydrates": "10.9",
+        "Calories": "74"
+    },
+    {
+        "Title": "Активиа Питьевая Чернослив",
+        "Proteins": "2.8",
+        "Fats": "2.0",
+        "Carbohydrates": "12.8",
+        "Calories": "80"
+    },
+    {
+        "Title": "Активиа Питьевая Яблоко и злаки",
+        "Proteins": "2.8",
+        "Fats": "2.2",
+        "Carbohydrates": "13.0",
+        "Calories": "83"
+    },
+    {
+        "Title": "Активиа Семейная Клубника",
+        "Proteins": "3.9",
+        "Fats": "3.2",
+        "Carbohydrates": "13.6",
+        "Calories": "98"
+    },
+    {
+        "Title": "Активиа Семейная Персик",
+        "Proteins": "3.9",
+        "Fats": "3.2",
+        "Carbohydrates": "13.6",
+        "Calories": "98"
+    },
+    {
+        "Title": "Активиа Творожная Клубника",
+        "Proteins": "5.0",
+        "Fats": "4.5",
+        "Carbohydrates": "15.5",
+        "Calories": "123"
+    },
+    {
+        "Title": "Активиа Творожная Малина",
+        "Proteins": "4.2",
+        "Fats": "4.5",
+        "Carbohydrates": "11.4",
+        "Calories": "102"
+    },
+    {
+        "Title": "Активиа Творожная Мюсли",
+        "Proteins": "5.0",
+        "Fats": "4.5",
+        "Carbohydrates": "15.5",
+        "Calories": "123"
+    },
+    {
+        "Title": "Активиа Творожная Мюсли и манго",
+        "Proteins": "4.8",
+        "Fats": "4.5",
+        "Carbohydrates": "14.7",
+        "Calories": "119"
+    },
+    {
+        "Title": "Активиа Творожная Натуральная",
+        "Proteins": "5.9",
+        "Fats": "4.5",
+        "Carbohydrates": "3.7",
+        "Calories": "79"
+    },
+    {
+        "Title": "Активиа Творожная Отруби и злаки",
+        "Proteins": "4.9",
+        "Fats": "4.3",
+        "Carbohydrates": "13.7",
+        "Calories": "113"
+    },
+    {
+        "Title": "Активиа Творожная Чернослив",
+        "Proteins": "4.7",
+        "Fats": "4.2",
+        "Carbohydrates": "14.4",
+        "Calories": "114"
+    },
+    {
+        "Title": "Активиа Фреш Арбуз",
+        "Proteins": "2.8",
+        "Fats": "1.6",
+        "Carbohydrates": "12.3",
+        "Calories": "74"
+    },
+    {
+        "Title": "Активиа Фреш Вишня",
+        "Proteins": "2.8",
+        "Fats": "1.6",
+        "Carbohydrates": "11.0",
+        "Calories": "70"
+    },
+    {
+        "Title": "Активиа Фреш Гранат и Малина",
+        "Proteins": "2.8",
+        "Fats": "1.6",
+        "Carbohydrates": "11.0",
+        "Calories": "70"
+    },
+    {
+        "Title": "Активиа Фреш Манго",
+        "Proteins": "2.8",
+        "Fats": "1.6",
+        "Carbohydrates": "12.0",
+        "Calories": "73"
+    },
+    {
+        "Title": "Активиа Фреш Персик",
+        "Proteins": "2.8",
+        "Fats": "1.6",
+        "Carbohydrates": "11.0",
+        "Calories": "70"
+    },
+    {
+        "Title": "Актуаль на сыворотке вкус арбуза",
+        "Proteins": "0.5",
+        "Fats": "0.1",
+        "Carbohydrates": "8.6",
+        "Calories": "37"
+    },
+    {
+        "Title": "Ацидофилин 0.1%",
+        "Proteins": "3.0",
+        "Fats": "0.1",
+        "Carbohydrates": "3.9",
+        "Calories": "31"
+    },
+    {
+        "Title": "Ацидофилин 1%",
+        "Proteins": "3.0",
+        "Fats": "1.0",
+        "Carbohydrates": "4.0",
+        "Calories": "40"
+    },
+    {
+        "Title": "Ацидофилин 3.2%",
+        "Proteins": "2.8",
+        "Fats": "3.2",
+        "Carbohydrates": "3.8",
+        "Calories": "57"
+    },
+    {
+        "Title": "Ацидофилин 3.2% сладкий",
+        "Proteins": "2.8",
+        "Fats": "3.2",
+        "Carbohydrates": "8.6",
+        "Calories": "77"
+    },
+    {
+        "Title": "Ацидофилин Останкинский 2.5%",
+        "Proteins": "2.8",
+        "Fats": "2.5",
+        "Carbohydrates": "4.2",
+        "Calories": "51"
+    },
+    {
+        "Title": "Биойогурт Deligrande Яблоко Груша 2.8%",
+        "Proteins": "3.9",
+        "Fats": "2.8",
+        "Carbohydrates": "11.5",
+        "Calories": "87"
+    },
+    {
+        "Title": "Биойогурт Активиа Виноград Манго Папайя Семена Чиа",
+        "Proteins": "4.1",
+        "Fats": "2.9",
+        "Carbohydrates": "10.8",
+        "Calories": "86"
+    },
+    {
+        "Title": "Биойогурт Активиа Клубника Яблоко Питахайя",
+        "Proteins": "4.1",
+        "Fats": "2.9",
+        "Carbohydrates": "10.9",
+        "Calories": "86"
+    },
+    {
+        "Title": "Биойогурт Останкинский 2.5%",
+        "Proteins": "3.2",
+        "Fats": "2.5",
+        "Carbohydrates": "8.9",
+        "Calories": "71"
+    },
+    {
+        "Title": "Биойогурт Слобода питьевой с грушей и злаками 2%",
+        "Proteins": "2.8",
+        "Fats": "2.0",
+        "Carbohydrates": "11.0",
+        "Calories": "73"
+    },
+    {
+        "Title": "Биойогурт Слобода с гранолой и изюмом 5%",
+        "Proteins": "3.6",
+        "Fats": "5.0",
+        "Carbohydrates": "14.3",
+        "Calories": "117"
+    },
+    {
+        "Title": "Биойогурт Слобода с клубникой 2.5%",
+        "Proteins": "3.0",
+        "Fats": "2.5",
+        "Carbohydrates": "13.6",
+        "Calories": "90"
+    },
+    {
+        "Title": "Биойогурт Слобода термостатный двухслойный с цветочным медом 2%",
+        "Proteins": "3.5",
+        "Fats": "2.0",
+        "Carbohydrates": "10.5",
+        "Calories": "75"
+    },
+    {
+        "Title": "Биойогурт Слобода термостатный двухслойный с черникой 2%",
+        "Proteins": "3.6",
+        "Fats": "2.0",
+        "Carbohydrates": "15.8",
+        "Calories": "93"
+    },
+    {
+        "Title": "Биокефир Вкуснотеево 1%",
+        "Proteins": "3.1",
+        "Fats": "1.0",
+        "Carbohydrates": "5.5",
+        "Calories": "43"
+    },
+    {
+        "Title": "Биокефир Останкинский 0.1%",
+        "Proteins": "3.0",
+        "Fats": "0.1",
+        "Carbohydrates": "3.6",
+        "Calories": "27"
+    },
+    {
+        "Title": "Биолакт Сегодня и Всегда продукт кисломолочный Абрикос-Манго",
+        "Proteins": "2.8",
+        "Fats": "2.5",
+        "Carbohydrates": "11.0",
+        "Calories": "78"
+    },
+    {
+        "Title": "Бифацил",
+        "Proteins": "2.9",
+        "Fats": "2.5",
+        "Carbohydrates": "7.9",
+        "Calories": "66"
+    },
+    {
+        "Title": "Бифитат",
+        "Proteins": "2.8",
+        "Fats": "3.4",
+        "Carbohydrates": "4.7",
+        "Calories": "61"
+    },
+    {
+        "Title": "Варенец 2.5%",
+        "Proteins": "2.8",
+        "Fats": "2.5",
+        "Carbohydrates": "4.0",
+        "Calories": "50"
+    },
+    {
+        "Title": "Варенец Останкинский 2.5%",
+        "Proteins": "2.8",
+        "Fats": "2.5",
+        "Carbohydrates": "4.2",
+        "Calories": "51"
+    },
+    {
+        "Title": "Даниссимо Белый персик - белый шоколад",
+        "Proteins": "4.6",
+        "Fats": "6.1",
+        "Carbohydrates": "18.3",
+        "Calories": "147"
+    },
+    {
+        "Title": "Даниссимо Вишня",
+        "Proteins": "4.7",
+        "Fats": "5.4",
+        "Carbohydrates": "17.5",
+        "Calories": "138"
+    },
+    {
+        "Title": "Даниссимо Груша-ваниль",
+        "Proteins": "4.7",
+        "Fats": "5.4",
+        "Carbohydrates": "17.1",
+        "Calories": "136"
+    },
+    {
+        "Title": "Даниссимо Клубника",
+        "Proteins": "4.7",
+        "Fats": "5.4",
+        "Carbohydrates": "17.1",
+        "Calories": "136"
+    },
+    {
+        "Title": "Даниссимо Крем-брюле",
+        "Proteins": "4.6",
+        "Fats": "4.6",
+        "Carbohydrates": "18.8",
+        "Calories": "135"
+    },
+    {
+        "Title": "Даниссимо Лесные ягоды",
+        "Proteins": "4.7",
+        "Fats": "5.4",
+        "Carbohydrates": "17.2",
+        "Calories": "136"
+    },
+    {
+        "Title": "Даниссимо Малина-земляника",
+        "Proteins": "4.7",
+        "Fats": "5.4",
+        "Carbohydrates": "16.0",
+        "Calories": "131"
+    },
+    {
+        "Title": "Аньолотти",
+        "Proteins": "10.0",
+        "Fats": "1.1",
+        "Carbohydrates": "71.5",
+        "Calories": "344"
+    },
+    {
+        "Title": "Баветте",
+        "Proteins": "11.0",
+        "Fats": "1.3",
+        "Carbohydrates": "70.5",
+        "Calories": "351"
+    },
+    {
+        "Title": "Блинчики Ермолино с печенью Мамины",
+        "Proteins": "8.0",
+        "Fats": "15.0",
+        "Carbohydrates": "33.0",
+        "Calories": "299"
+    },
+    {
+        "Title": "Блинчики Морозко сладкие с вишней",
+        "Proteins": "3.5",
+        "Fats": "4.5",
+        "Carbohydrates": "32.0",
+        "Calories": "180"
+    },
+    {
+        "Title": "Блинчики Морозко сладкие с творогом",
+        "Proteins": "7.2",
+        "Fats": "6.0",
+        "Carbohydrates": "27.4",
+        "Calories": "192"
+    },
+    {
+        "Title": "Блинчики Морозко сытные с мясом",
+        "Proteins": "7.2",
+        "Fats": "10.7",
+        "Carbohydrates": "23.3",
+        "Calories": "218"
+    },
+    {
+        "Title": "Блинчики Останкино с мясом",
+        "Proteins": "8.0",
+        "Fats": "11.0",
+        "Carbohydrates": "33.0",
+        "Calories": "270"
+    },
+    {
+        "Title": "Блинчики Останкино с печенью",
+        "Proteins": "8.0",
+        "Fats": "10.0",
+        "Carbohydrates": "33.0",
+        "Calories": "260"
+    },
+    {
+        "Title": "Блины",
+        "Proteins": "6.1",
+        "Fats": "12.3",
+        "Carbohydrates": "26.0",
+        "Calories": "233"
+    },
+    {
+        "Title": "Блины с ветчиной",
+        "Proteins": "8.9",
+        "Fats": "13.5",
+        "Carbohydrates": "33.9",
+        "Calories": "292"
+    },
+    {
+        "Title": "Блины с ветчиной и сыром",
+        "Proteins": "14.3",
+        "Fats": "20.2",
+        "Carbohydrates": "35.3",
+        "Calories": "382"
+    },
+    {
+        "Title": "Блины с грибами",
+        "Proteins": "6.7",
+        "Fats": "9.9",
+        "Carbohydrates": "21.0",
+        "Calories": "218"
+    },
+    {
+        "Title": "Блины с красной икрой",
+        "Proteins": "12.7",
+        "Fats": "15.2",
+        "Carbohydrates": "33.7",
+        "Calories": "324"
+    },
+    {
+        "Title": "Блины с маслом",
+        "Proteins": "8.0",
+        "Fats": "15.2",
+        "Carbohydrates": "40.6",
+        "Calories": "332"
+    },
+    {
+        "Title": "Блины с мёдом",
+        "Proteins": "7.2",
+        "Fats": "13.5",
+        "Carbohydrates": "50.4",
+        "Calories": "350"
+    },
+    {
+        "Title": "Блины с сёмгой",
+        "Proteins": "11.2",
+        "Fats": "14.9",
+        "Carbohydrates": "33.8",
+        "Calories": "313"
+    },
+    {
+        "Title": "Блины с сыром",
+        "Proteins": "11.4",
+        "Fats": "18.3",
+        "Carbohydrates": "34.3",
+        "Calories": "348"
+    },
+    {
+        "Title": "Блины со сгущеным молоком",
+        "Proteins": "8.1",
+        "Fats": "12.4",
+        "Carbohydrates": "41.7",
+        "Calories": "324"
+    },
+    {
+        "Title": "Блины со сметаной",
+        "Proteins": "7.1",
+        "Fats": "16.3",
+        "Carbohydrates": "34.3",
+        "Calories": "311"
+    },
+    {
+        "Title": "Бораки",
+        "Proteins": "13.7",
+        "Fats": "12.0",
+        "Carbohydrates": "30.7",
+        "Calories": "277"
+    },
+    {
+        "Title": "Букатини",
+        "Proteins": "12.0",
+        "Fats": "1.2",
+        "Carbohydrates": "71.0",
+        "Calories": "350"
+    },
+    {
+        "Title": "Вареники от Ильиной с вишней",
+        "Proteins": "7.6",
+        "Fats": "0.0",
+        "Carbohydrates": "18.7",
+        "Calories": "105"
+    },
+    {
+        "Title": "Вареники от Ильиной с картофелем",
+        "Proteins": "4.4",
+        "Fats": "3.7",
+        "Carbohydrates": "18.5",
+        "Calories": "125"
+    },
+    {
+        "Title": "Вареники от Ильиной с клубникой",
+        "Proteins": "7.9",
+        "Fats": "0.0",
+        "Carbohydrates": "17.6",
+        "Calories": "205"
+    },
+    {
+        "Title": "Вареники от Ильиной с творогом",
+        "Proteins": "12.0",
+        "Fats": "4.2",
+        "Carbohydrates": "17.0",
+        "Calories": "154"
+    },
+    {
+        "Title": "Вареники от Ильиной с черникой",
+        "Proteins": "7.6",
+        "Fats": "0.0",
+        "Carbohydrates": "18.7",
+        "Calories": "105"
+    },
+    {
+        "Title": "Вареники Хвалынские с картошкой и грибами",
+        "Proteins": "6.0",
+        "Fats": "3.6",
+        "Carbohydrates": "32.0",
+        "Calories": "184"
+    },
+    {
+        "Title": "Вермишель Lorenzo суповая",
+        "Proteins": "10.0",
+        "Fats": "1.0",
+        "Carbohydrates": "72.0",
+        "Calories": "340"
+    },
+    {
+        "Title": "Вермишель Makfa яичная длинная",
+        "Proteins": "11.3",
+        "Fats": "2.1",
+        "Carbohydrates": "69.6",
+        "Calories": "342"
+    },
+    {
+        "Title": "Вермишель Myllyn Paras",
+        "Proteins": "10.4",
+        "Fats": "1.1",
+        "Carbohydrates": "71.5",
+        "Calories": "344"
+    },
+    {
+        "Title": "Вермишель SanBonsai из чёрного риса",
+        "Proteins": "7.3",
+        "Fats": "0.9",
+        "Carbohydrates": "78.0",
+        "Calories": "349"
+    },
+    {
+        "Title": "Вермишель Бефстроганов соевая",
+        "Proteins": "48.9",
+        "Fats": "2.3",
+        "Carbohydrates": "8.9",
+        "Calories": "254"
+    },
+    {
+        "Title": "Вермишель Роллтон на домашнем бульоне с говядиной",
+        "Proteins": "8.7",
+        "Fats": "21.1",
+        "Carbohydrates": "56.7",
+        "Calories": "452"
+    },
+    {
+        "Title": "Вермишель Роллтон №21",
+        "Proteins": "10.4",
+        "Fats": "1.1",
+        "Carbohydrates": "71.5",
+        "Calories": "344"
+    },
+    {
+        "Title": "Дамплинги Bibigo Королевские с курицей и овощами",
+        "Proteins": "8.7",
+        "Fats": "4.7",
+        "Carbohydrates": "17.7",
+        "Calories": "143"
+    },
+    {
+        "Title": "Зити",
+        "Proteins": "12.0",
+        "Fats": "1.2",
+        "Carbohydrates": "71.0",
+        "Calories": "330"
+    },
+    {
+        "Title": "Капеллини",
+        "Proteins": "13.0",
+        "Fats": "1.5",
+        "Carbohydrates": "70.2",
+        "Calories": "346"
+    },
+    {
+        "Title": "Клецки",
+        "Proteins": "5.0",
+        "Fats": "4.8",
+        "Carbohydrates": "25.8",
+        "Calories": "160"
+    },
+    {
+        "Title": "Конкильони",
+        "Proteins": "10.4",
+        "Fats": "1.1",
+        "Carbohydrates": "71.5",
+        "Calories": "344"
+    },
+    {
+        "Title": "Лапша Buitoni La Rasagnole Феттучине",
+        "Proteins": "13.5",
+        "Fats": "4.0",
+        "Carbohydrates": "69.0",
+        "Calories": "370"
+    },
+    {
+        "Title": "Лапша Buitoni Тальятелле Гнезда",
+        "Proteins": "13.5",
+        "Fats": "4.0",
+        "Carbohydrates": "69.0",
+        "Calories": "370"
+    },
+    {
+        "Title": "Лапша Buitoni Феттучине Гнезда",
+        "Proteins": "11.5",
+        "Fats": "1.9",
+        "Carbohydrates": "71.8",
+        "Calories": "350"
+    },
+    {
+        "Title": "Лапша Midori рисовая крупная",
+        "Proteins": "0.1",
+        "Fats": "1.2",
+        "Carbohydrates": "84.9",
+        "Calories": "330"
+    },
+    {
+        "Title": "Лапша SanBonsai гречневая Soba",
+        "Proteins": "10.0",
+        "Fats": "0.5",
+        "Carbohydrates": "62.0",
+        "Calories": "294"
+    },
+    {
+        "Title": "Лапша SanBonsai пшеничная Udon",
+        "Proteins": "12.0",
+        "Fats": "1.0",
+        "Carbohydrates": "65.0",
+        "Calories": "358"
+    },
+    {
+        "Title": "Лапша SanBonsai яичная Egg",
+        "Proteins": "9.0",
+        "Fats": "15.0",
+        "Carbohydrates": "68.0",
+        "Calories": "440"
+    },
+    {
+        "Title": "Лапша SOBA гречневая",
+        "Proteins": "14.7",
+        "Fats": "0.9",
+        "Carbohydrates": "70.5",
+        "Calories": "348"
+    },
+    {
+        "Title": "Лапша ВкусВилл с куркумой",
+        "Proteins": "10.4",
+        "Fats": "1.1",
+        "Carbohydrates": "71.5",
+        "Calories": "334"
+    },
+    {
+        "Title": "Лапша домашняя",
+        "Proteins": "12.0",
+        "Fats": "3.7",
+        "Carbohydrates": "60.1",
+        "Calories": "322"
+    },
+    {
+        "Title": "Лапша Доширак со вкусом говядины",
+        "Proteins": "7.0",
+        "Fats": "18.0",
+        "Carbohydrates": "63.0",
+        "Calories": "440"
+    },
+    {
+        "Title": "Лапша Доширак со вкусом курицы",
+        "Proteins": "9.0",
+        "Fats": "19.0",
+        "Carbohydrates": "62.0",
+        "Calories": "460"
+    },
+    {
+        "Title": "Лапша Доширак со вкусом морепродуктов",
+        "Proteins": "9.0",
+        "Fats": "19.0",
+        "Carbohydrates": "62.0",
+        "Calories": "460"
+    },
+    {
+        "Title": "Лапша Мунг биан бобовая",
+        "Proteins": "1.4",
+        "Fats": "0.0",
+        "Carbohydrates": "14.4",
+        "Calories": "300"
+    },
+    {
+        "Title": "Лапша рамен",
+        "Proteins": "10.4",
+        "Fats": "1.1",
+        "Carbohydrates": "69.7",
+        "Calories": "337"
+    },
+    {
+        "Title": "Лапша Роллтон с курицей",
+        "Proteins": "8.8",
+        "Fats": "20.7",
+        "Carbohydrates": "56.7",
+        "Calories": "448"
+    },
+    {
+        "Title": "Лапша Роллтон яичная Классическая",
+        "Proteins": "10.4",
+        "Fats": "2.0",
+        "Carbohydrates": "59.2",
+        "Calories": "298"
+    },
+    {
+        "Title": "Лапша Сэн Сой рисовая",
+        "Proteins": "7.0",
+        "Fats": "0.0",
+        "Carbohydrates": "79.0",
+        "Calories": "344"
+    },
+    {
+        "Title": "Лапша удон",
+        "Proteins": "10.4",
+        "Fats": "1.1",
+        "Carbohydrates": "69.7",
+        "Calories": "337"
+    },
+    {
+        "Title": "Лапша харусаме",
+        "Proteins": "0.0",
+        "Fats": "0.0",
+        "Carbohydrates": "88.1",
+        "Calories": "352"
+    },
+    {
+        "Title": "Лапша-лагман Щебекинские",
+        "Proteins": "13.0",
+        "Fats": "1.5",
+        "Carbohydrates": "72.0",
+        "Calories": "350"
+    },
+    {
+        "Title": "Лингуине",
+        "Proteins": "12.0",
+        "Fats": "1.2",
+        "Carbohydrates": "71.0",
+        "Calories": "350"
+    },
+    {
+        "Title": "Листы для лазаньи",
+        "Proteins": "12.0",
+        "Fats": "1.5",
+        "Carbohydrates": "72.2",
+        "Calories": "350"
+    },
+    {
+        "Title": "Листы для лазаньи Barilla",
+        "Proteins": "12.0",
+        "Fats": "1.5",
+        "Carbohydrates": "72.2",
+        "Calories": "350"
+    },
+    {
+        "Title": "Листы для лазаньи Buitoni",
+        "Proteins": "11.5",
+        "Fats": "1.9",
+        "Carbohydrates": "71.8",
+        "Calories": "350"
+    },
+    {
+        "Title": "Макароны Barilla Colezione Mezze Penne Tricolore",
+        "Proteins": "12.0",
+        "Fats": "2.0",
+        "Carbohydrates": "71.7",
+        "Calories": "353"
+    },
+    {
+        "Title": "Макароны Barilla Fusilli",
+        "Proteins": "14.0",
+        "Fats": "2.0",
+        "Carbohydrates": "69.7",
+        "Calories": "359"
+    },
+    {
+        "Title": "Макароны Barilla Fusilli без глютена",
+        "Proteins": "6.5",
+        "Fats": "1.8",
+        "Carbohydrates": "87.7",
+        "Calories": "359"
+    },
+    {
+        "Title": "Макароны Buitoni Бантики трехцветные",
+        "Proteins": "11.7",
+        "Fats": "1.7",
+        "Carbohydrates": "71.3",
+        "Calories": "347"
+    },
+    {
+        "Title": "Макароны Buitoni Каннеллони крупные",
+        "Proteins": "11.5",
+        "Fats": "1.9",
+        "Carbohydrates": "71.8",
+        "Calories": "350"
+    },
+    {
+        "Title": "Макароны Buitoni Спиральки трехцветные",
+        "Proteins": "11.7",
+        "Fats": "1.7",
+        "Carbohydrates": "71.3",
+        "Calories": "347"
+    },
+    {
+        "Title": "Макароны La Molisana Spaghetti",
+        "Proteins": "14.0",
+        "Fats": "1.0",
+        "Carbohydrates": "70.0",
+        "Calories": "351"
+    },
+    {
+        "Title": "Макароны Makfa",
+        "Proteins": "10.4",
+        "Fats": "1.1",
+        "Carbohydrates": "71.5",
+        "Calories": "344"
+    },
+    {
+        "Title": "Макароны Makfa Livingood Energy Pasta Fusilli",
+        "Proteins": "21.0",
+        "Fats": "3.1",
+        "Carbohydrates": "66.0",
+        "Calories": "383"
+    },
+    {
+        "Title": "Макароны Makfa гречневые",
+        "Proteins": "14.1",
+        "Fats": "1.0",
+        "Carbohydrates": "70.9",
+        "Calories": "350"
+    },
+    {
+        "Title": "Макароны Makfa Станичные (перья любительские)",
+        "Proteins": "16.3",
+        "Fats": "1.6",
+        "Carbohydrates": "69.2",
+        "Calories": "356"
+    },
+    {
+        "Title": "Макароны Makfa Станичные (спирали)",
+        "Proteins": "16.3",
+        "Fats": "1.6",
+        "Carbohydrates": "69.2",
+        "Calories": "356"
+    },
+    {
+        "Title": "Макароны Makfa томатные",
+        "Proteins": "13.0",
+        "Fats": "1.5",
+        "Carbohydrates": "75.0",
+        "Calories": "370"
+    },
+    {
+        "Title": "Макароны Makfa цельнозерновые",
+        "Proteins": "13.9",
+        "Fats": "1.4",
+        "Carbohydrates": "73.1",
+        "Calories": "361"
+    },
+    {
+        "Title": "Макароны Makfa шпинатные",
+        "Proteins": "12.6",
+        "Fats": "1.3",
+        "Carbohydrates": "76.0",
+        "Calories": "366"
+    },
+    {
+        "Title": "Макароны Makfa Экспресс",
+        "Proteins": "12.0",
+        "Fats": "1.3",
+        "Carbohydrates": "70.5",
+        "Calories": "342"
+    },
+    {
+        "Title": "Азу",
+        "Proteins": "11.9",
+        "Fats": "14.2",
+        "Carbohydrates": "10.2",
+        "Calories": "214"
+    },
+    {
+        "Title": "Антрекот",
+        "Proteins": "27.3",
+        "Fats": "31.2",
+        "Carbohydrates": "1.7",
+        "Calories": "396"
+    },
+    {
+        "Title": "Антрекот из говядины",
+        "Proteins": "29.6",
+        "Fats": "11.2",
+        "Carbohydrates": "0.0",
+        "Calories": "220"
+    },
+    {
+        "Title": "Антрекот из свинины",
+        "Proteins": "28.7",
+        "Fats": "9.8",
+        "Carbohydrates": "0.0",
+        "Calories": "210"
+    },
+    {
+        "Title": "Бараний окорок",
+        "Proteins": "18.0",
+        "Fats": "18.0",
+        "Carbohydrates": "0.0",
+        "Calories": "232"
+    },
+    {
+        "Title": "Бараний рубец",
+        "Proteins": "11.5",
+        "Fats": "4.0",
+        "Carbohydrates": "0.0",
+        "Calories": "82"
+    },
+    {
+        "Title": "Бараний фарш",
+        "Proteins": "17.0",
+        "Fats": "23.0",
+        "Carbohydrates": "0.0",
+        "Calories": "282"
+    },
+    {
+        "Title": "Бараний язык",
+        "Proteins": "12.6",
+        "Fats": "16.1",
+        "Carbohydrates": "0.0",
+        "Calories": "195"
+    },
+    {
+        "Title": "Баранина",
+        "Proteins": "15.6",
+        "Fats": "16.3",
+        "Carbohydrates": "0.0",
+        "Calories": "209"
+    },
+    {
+        "Title": "Баранина вареная",
+        "Proteins": "24.6",
+        "Fats": "21.4",
+        "Carbohydrates": "0.0",
+        "Calories": "291"
+    },
+    {
+        "Title": "Баранина жареная",
+        "Proteins": "20.0",
+        "Fats": "24.0",
+        "Carbohydrates": "0.0",
+        "Calories": "320"
+    },
+    {
+        "Title": "Баранина тушеная",
+        "Proteins": "20.0",
+        "Fats": "20.9",
+        "Carbohydrates": "0.0",
+        "Calories": "268"
+    },
+    {
+        "Title": "Баранье сердце",
+        "Proteins": "13.5",
+        "Fats": "2.5",
+        "Carbohydrates": "0.0",
+        "Calories": "82"
+    },
+    {
+        "Title": "Бараньи почки",
+        "Proteins": "13.6",
+        "Fats": "2.5",
+        "Carbohydrates": "0.0",
+        "Calories": "77"
+    },
+    {
+        "Title": "Бараньи яйца",
+        "Proteins": "13.0",
+        "Fats": "19.0",
+        "Carbohydrates": "0.1",
+        "Calories": "230"
+    },
+    {
+        "Title": "Баранья лопатка",
+        "Proteins": "15.6",
+        "Fats": "25.0",
+        "Carbohydrates": "0.0",
+        "Calories": "284"
+    },
+    {
+        "Title": "Баранья печень",
+        "Proteins": "18.7",
+        "Fats": "2.9",
+        "Carbohydrates": "0.0",
+        "Calories": "101"
+    },
+    {
+        "Title": "Бастурма турецкая",
+        "Proteins": "14.8",
+        "Fats": "20.1",
+        "Carbohydrates": "0.0",
+        "Calories": "240"
+    },
+    {
+        "Title": "Бекон",
+        "Proteins": "23.0",
+        "Fats": "45.0",
+        "Carbohydrates": "0.0",
+        "Calories": "500"
+    },
+    {
+        "Title": "Бекон Мираторг Любительский",
+        "Proteins": "12.0",
+        "Fats": "35.0",
+        "Carbohydrates": "0.0",
+        "Calories": "360"
+    },
+    {
+        "Title": "Бекон сырокопченый Дымов Венгерский",
+        "Proteins": "10.0",
+        "Fats": "44.0",
+        "Carbohydrates": "0.0",
+        "Calories": "436"
+    },
+    {
+        "Title": "Бефстроганов",
+        "Proteins": "21.9",
+        "Fats": "27.4",
+        "Carbohydrates": "5.7",
+        "Calories": "355"
+    },
+    {
+        "Title": "Бефстроганов из говядины",
+        "Proteins": "16.7",
+        "Fats": "11.3",
+        "Carbohydrates": "5.9",
+        "Calories": "193"
+    },
+    {
+        "Title": "Бефстроганов из курицы",
+        "Proteins": "14.7",
+        "Fats": "2.0",
+        "Carbohydrates": "0.4",
+        "Calories": "163"
+    },
+    {
+        "Title": "Бефстроганов из свинины",
+        "Proteins": "19.4",
+        "Fats": "7.1",
+        "Carbohydrates": "0.0",
+        "Calories": "142"
+    },
+    {
+        "Title": "Бизонье мясо",
+        "Proteins": "21.6",
+        "Fats": "1.2",
+        "Carbohydrates": "0.0",
+        "Calories": "109"
+    },
+    {
+        "Title": "Бифштекс",
+        "Proteins": "27.8",
+        "Fats": "29.6",
+        "Carbohydrates": "1.7",
+        "Calories": "384"
+    },
+    {
+        "Title": "Блюдо армянское Бозбаш 4 сезона",
+        "Proteins": "3.0",
+        "Fats": "9.5",
+        "Carbohydrates": "4.0",
+        "Calories": "126"
+    },
+    {
+        "Title": "Блюдо болгарское Жаркое по-деревенски 4 сезона",
+        "Proteins": "3.5",
+        "Fats": "11.1",
+        "Carbohydrates": "5.5",
+        "Calories": "137"
+    },
+    {
+        "Title": "Блюдо греческое Мясо по-македонски 4 сезона",
+        "Proteins": "5.8",
+        "Fats": "10.1",
+        "Carbohydrates": "22.0",
+        "Calories": "206"
+    },
+    {
+        "Title": "Блюдо грузинское Чахохбили с фасолью 4 сезона",
+        "Proteins": "6.2",
+        "Fats": "5.5",
+        "Carbohydrates": "3.4",
+        "Calories": "87"
+    },
+    {
+        "Title": "Блюдо индийское Цыплёнок карри 4 сезона",
+        "Proteins": "6.6",
+        "Fats": "3.2",
+        "Carbohydrates": "21.0",
+        "Calories": "142"
+    },
+    {
+        "Title": "Блюдо испанское Паэлья 4 сезона",
+        "Proteins": "8.2",
+        "Fats": "3.0",
+        "Carbohydrates": "16.3",
+        "Calories": "129"
+    },
+    {
+        "Title": "Блюдо итальянское Пенне карбонара 4 сезона",
+        "Proteins": "5.6",
+        "Fats": "11.4",
+        "Carbohydrates": "16.4",
+        "Calories": "188"
+    },
+    {
+        "Title": "Блюдо итальянское Ризотто с морепродуктами 4 сезона",
+        "Proteins": "6.5",
+        "Fats": "6.4",
+        "Carbohydrates": "18.8",
+        "Calories": "163"
+    },
+    {
+        "Title": "Блюдо китайское Курочка по-пекински 4 сезона",
+        "Proteins": "5.6",
+        "Fats": "3.3",
+        "Carbohydrates": "11.8",
+        "Calories": "102"
+    },
+    {
+        "Title": "Блюдо китайское Свинина в кисло-сладком соусе 4 сезона",
+        "Proteins": "4.4",
+        "Fats": "9.4",
+        "Carbohydrates": "14.8",
+        "Calories": "153"
+    },
+    {
+        "Title": "Блюдо латиноамериканское Цыплёнок по-мексикански 4 сезона",
+        "Proteins": "6.6",
+        "Fats": "8.5",
+        "Carbohydrates": "10.7",
+        "Calories": "127"
+    },
+    {
+        "Title": "Блюдо мексиканское Чили кон карне 4 сезона",
+        "Proteins": "6.4",
+        "Fats": "8.8",
+        "Carbohydrates": "15.7",
+        "Calories": "160"
+    },
+    {
+        "Title": "Блюдо наше Макароны по-флотски 4 сезона",
+        "Proteins": "7.6",
+        "Fats": "9.9",
+        "Carbohydrates": "21.2",
+        "Calories": "185"
+    },
+    {
+        "Title": "Блюдо русское Барашек с гречкой 4 сезона",
+        "Proteins": "5.9",
+        "Fats": "13.8",
+        "Carbohydrates": "17.7",
+        "Calories": "224"
+    },
+    {
+        "Title": "Блюдо среднеазиатское Лагман 4 сезона",
+        "Proteins": "4.3",
+        "Fats": "8.9",
+        "Carbohydrates": "13.3",
+        "Calories": "158"
+    },
+    {
+        "Title": "Блюдо тайское Лапша карри 4 сезона",
+        "Proteins": "5.9",
+        "Fats": "6.4",
+        "Carbohydrates": "12.7",
+        "Calories": "128"
+    },
+    {
+        "Title": "Блюдо узбекское Плов с бараниной 4 сезона",
+        "Proteins": "4.2",
+        "Fats": "6.0",
+        "Carbohydrates": "14.9",
+        "Calories": "150"
+    },
+    {
+        "Title": "Блюдо французское Шампиньон де пари 4 сезона",
+        "Proteins": "6.7",
+        "Fats": "9.5",
+        "Carbohydrates": "5.1",
+        "Calories": "129"
+    },
+    {
+        "Title": "Блюдо швейцарское Фондю эменталь 4 сезона",
+        "Proteins": "7.9",
+        "Fats": "10.2",
+        "Carbohydrates": "13.3",
+        "Calories": "175"
+    },
+    {
+        "Title": "Блюдо японское Сакэна с рисом 4 сезона",
+        "Proteins": "5.7",
+        "Fats": "2.4",
+        "Carbohydrates": "13.6",
+        "Calories": "103"
+    },
+    {
+        "Title": "Буженина вареная",
+        "Proteins": "16.4",
+        "Fats": "18.3",
+        "Carbohydrates": "1.0",
+        "Calories": "233"
+    },
+    {
+        "Title": "Буженина Фабрика Качества из мяса цыплят-бройлеров Традиционная запечённая",
+        "Proteins": "20.0",
+        "Fats": "9.0",
+        "Carbohydrates": "0.0",
+        "Calories": "160"
+    },
+    {
+        "Title": "Буйволятина",
+        "Proteins": "19.0",
+        "Fats": "13.2",
+        "Carbohydrates": "0.0",
+        "Calories": "194"
+    },
+    {
+        "Title": "Буйволятина вареная",
+        "Proteins": "30.0",
+        "Fats": "17.4",
+        "Carbohydrates": "0.0",
+        "Calories": "276"
+    },
+    {
+        "Title": "Буйволятина жареная",
+        "Proteins": "33.4",
+        "Fats": "23.2",
+        "Carbohydrates": "0.0",
+        "Calories": "342"
+    },
+    {
+        "Title": "Буйволятина тушеная",
+        "Proteins": "24.4",
+        "Fats": "16.9",
+        "Carbohydrates": "0.0",
+        "Calories": "250"
+    },
+    {
+        "Title": "Бульмени Горячая штучка С говядиной и свининой",
+        "Proteins": "14.5",
+        "Fats": "9.5",
+        "Carbohydrates": "19.0",
+        "Calories": "220"
+    },
+    {
+        "Title": "Бульмени Горячая штучка Со сливочным маслом",
+        "Proteins": "14.5",
+        "Fats": "10.0",
+        "Carbohydrates": "19.0",
+        "Calories": "224"
+    },
+    {
+        "Title": "Бычьи яйца",
+        "Proteins": "13.0",
+        "Fats": "20.0",
+        "Carbohydrates": "0.1",
+        "Calories": "230"
+    },
+    {
+        "Title": "Верблюжатина",
+        "Proteins": "18.9",
+        "Fats": "9.4",
+        "Carbohydrates": "0.0",
+        "Calories": "160"
+    },
+    {
+        "Title": "Верблюжатина вареная",
+        "Proteins": "29.8",
+        "Fats": "12.4",
+        "Carbohydrates": "0.0",
+        "Calories": "230"
+    },
+    {
+        "Title": "Верблюжатина жареная",
+        "Proteins": "33.3",
+        "Fats": "16.5",
+        "Carbohydrates": "0.0",
+        "Calories": "281"
+    },
+    {
+        "Title": "Верблюжатина тушеная",
+        "Proteins": "24.3",
+        "Fats": "12.1",
+        "Carbohydrates": "0.0",
+        "Calories": "205"
+    },
+    {
+        "Title": "Ветчина",
+        "Proteins": "14.0",
+        "Fats": "24.0",
+        "Carbohydrates": "0.0",
+        "Calories": "270"
+    },
+    {
+        "Title": "Ветчина DAK Датская",
+        "Proteins": "18.0",
+        "Fats": "4.0",
+        "Carbohydrates": "1.0",
+        "Calories": "112"
+    },
+    {
+        "Title": "Ветчина в форме",
+        "Proteins": "22.6",
+        "Fats": "20.9",
+        "Carbohydrates": "0.0",
+        "Calories": "278"
+    },
+    {
+        "Title": "Ветчина Велком Говяжья вареная",
+        "Proteins": "19.0",
+        "Fats": "5.5",
+        "Carbohydrates": "0.0",
+        "Calories": "130"
+    },
+    {
+        "Title": "Ветчина Велком из окорока вареная",
+        "Proteins": "18.0",
+        "Fats": "6.0",
+        "Carbohydrates": "0.0",
+        "Calories": "130"
+    },
+    {
+        "Title": "Ветчина Венеция из мяса индеек",
+        "Proteins": "13.2",
+        "Fats": "5.4",
+        "Carbohydrates": "2.6",
+        "Calories": "112"
+    },
+    {
+        "Title": "Ветчина ВкусВилл из индейки с травами",
+        "Proteins": "20.8",
+        "Fats": "2.6",
+        "Carbohydrates": "0.0",
+        "Calories": "109"
+    },
+    {
+        "Title": "Ветчина Вязанка с индейкой",
+        "Proteins": "13.0",
+        "Fats": "4.0",
+        "Carbohydrates": "0.0",
+        "Calories": "90"
+    },
+    {
+        "Title": "Ветчина Дымов с окороком",
+        "Proteins": "10.0",
+        "Fats": "3.0",
+        "Carbohydrates": "4.0",
+        "Calories": "83"
+    },
+    {
+        "Title": "Ветчина Знаменские деликатесы по Швейцарскому рецепту",
+        "Proteins": "18.0",
+        "Fats": "3.0",
+        "Carbohydrates": "3.0",
+        "Calories": "110"
+    },
+    {
+        "Title": "Ветчина из индейки обезжиренная",
+        "Proteins": "15.0",
+        "Fats": "1.0",
+        "Carbohydrates": "2.0",
+        "Calories": "77"
+    },
+    {
+        "Title": "Ветчина Империя Вкуса из индейки",
+        "Proteins": "11.0",
+        "Fats": "3.0",
+        "Carbohydrates": "7.0",
+        "Calories": "99"
+    },
+    {
+        "Title": "Ветчина Останкино Мраморная вареная",
+        "Proteins": "11.0",
+        "Fats": "20.0",
+        "Carbohydrates": "0.0",
+        "Calories": "224"
+    },
+    {
+        "Title": "Ветчина Останкино нежная из индейки",
+        "Proteins": "10.0",
+        "Fats": "10.0",
+        "Carbohydrates": "5.0",
+        "Calories": "154"
+    },
+    {
+        "Title": "Ветчина Останкино нежная из свиного окорока",
+        "Proteins": "8.0",
+        "Fats": "13.0",
+        "Carbohydrates": "3.0",
+        "Calories": "166"
+    },
+    {
+        "Title": "Ветчина Папа может с индейкой",
+        "Proteins": "13.0",
+        "Fats": "3.0",
+        "Carbohydrates": "0.0",
+        "Calories": "100"
+    },
+    {
+        "Title": "Ветчина Пармская",
+        "Proteins": "24.4",
+        "Fats": "22.5",
+        "Carbohydrates": "0.1",
+        "Calories": "300"
+    },
+    {
+        "Title": "Ветчина Рублёвский Для завтрака из свинины",
+        "Proteins": "12.0",
+        "Fats": "15.0",
+        "Carbohydrates": "0.0",
+        "Calories": "183"
+    },
+    {
+        "Title": "Ветчина Самокат Свиная премиум",
+        "Proteins": "6.0",
+        "Fats": "37.0",
+        "Carbohydrates": "3.5",
+        "Calories": "370"
+    },
+    {
+        "Title": "Глухарь",
+        "Proteins": "18.0",
+        "Fats": "20.0",
+        "Carbohydrates": "0.5",
+        "Calories": "254"
+    },
+    {
+        "Title": "Ангурия (Антильский огурец)",
+        "Proteins": "1.8",
+        "Fats": "1.3",
+        "Carbohydrates": "7.6",
+        "Calories": "44"
+    },
+    {
+        "Title": "Арракача",
+        "Proteins": "0.9",
+        "Fats": "0.1",
+        "Carbohydrates": "17.1",
+        "Calories": "60"
+    },
+    {
+        "Title": "Артишок",
+        "Proteins": "1.2",
+        "Fats": "0.1",
+        "Carbohydrates": "6.0",
+        "Calories": "28"
+    },
+    {
+        "Title": "Артишоки Federici гриль в подсолнечном масле",
+        "Proteins": "1.5",
+        "Fats": "47.2",
+        "Carbohydrates": "5.2",
+        "Calories": "456"
+    },
+    {
+        "Title": "Ассорти Бондюэль из сладкого перца",
+        "Proteins": "1.1",
+        "Fats": "0.2",
+        "Carbohydrates": "4.8",
+        "Calories": "25"
+    },
+    {
+        "Title": "Ассорти Бондюэль из фасоли с ананасами в соусе Карри",
+        "Proteins": "3.8",
+        "Fats": "1.1",
+        "Carbohydrates": "9.3",
+        "Calories": "62"
+    },
+    {
+        "Title": "Ассорти Бондюэль из цветной капусты, романеско и брокколи",
+        "Proteins": "1.8",
+        "Fats": "2.7",
+        "Carbohydrates": "8.6",
+        "Calories": "66"
+    },
+    {
+        "Title": "Ассорти МеленЪ Кабачки Черри Огурцы маринованные",
+        "Proteins": "0.0",
+        "Fats": "0.0",
+        "Carbohydrates": "4.0",
+        "Calories": "15"
+    },
+    {
+        "Title": "Ассорти МеленЪ Патиссоны Черри Огурцы маринованные",
+        "Proteins": "0.0",
+        "Fats": "0.0",
+        "Carbohydrates": "4.0",
+        "Calories": "15"
+    },
+    {
+        "Title": "Баклажан",
+        "Proteins": "1.2",
+        "Fats": "0.1",
+        "Carbohydrates": "4.5",
+        "Calories": "24"
+    },
+    {
+        "Title": "Баклажан белый",
+        "Proteins": "1.2",
+        "Fats": "0.1",
+        "Carbohydrates": "4.6",
+        "Calories": "24"
+    },
+    {
+        "Title": "Баклажан замороженный",
+        "Proteins": "1.3",
+        "Fats": "0.1",
+        "Carbohydrates": "5.2",
+        "Calories": "27"
+    },
+    {
+        "Title": "Баклажан консервированный",
+        "Proteins": "0.9",
+        "Fats": "0.7",
+        "Carbohydrates": "7.3",
+        "Calories": "49"
+    },
+    {
+        "Title": "Баклажанная икра консервированная",
+        "Proteins": "1.7",
+        "Fats": "13.3",
+        "Carbohydrates": "5.1",
+        "Calories": "148"
+    },
+    {
+        "Title": "Баклажанная икра свежая",
+        "Proteins": "0.6",
+        "Fats": "7.0",
+        "Carbohydrates": "6.0",
+        "Calories": "90"
+    },
+    {
+        "Title": "Баклажаны 4 сезона запечённые порционные",
+        "Proteins": "2.1",
+        "Fats": "0.2",
+        "Carbohydrates": "8.9",
+        "Calories": "48"
+    },
+    {
+        "Title": "Баклажаны 4 сезона нарезанные",
+        "Proteins": "1.3",
+        "Fats": "0.1",
+        "Carbohydrates": "5.2",
+        "Calories": "27"
+    },
+    {
+        "Title": "Бамбук листья",
+        "Proteins": "2.0",
+        "Fats": "0.0",
+        "Carbohydrates": "4.0",
+        "Calories": "32"
+    },
+    {
+        "Title": "Бамбук побеги вареные",
+        "Proteins": "1.5",
+        "Fats": "0.2",
+        "Carbohydrates": "0.9",
+        "Calories": "12"
+    },
+    {
+        "Title": "Бамбук побеги консервированные",
+        "Proteins": "1.7",
+        "Fats": "0.4",
+        "Carbohydrates": "1.8",
+        "Calories": "19"
+    },
+    {
+        "Title": "Бамбук побеги сырые",
+        "Proteins": "2.6",
+        "Fats": "0.3",
+        "Carbohydrates": "3.0",
+        "Calories": "27"
+    },
+    {
+        "Title": "Бамия",
+        "Proteins": "2.0",
+        "Fats": "0.1",
+        "Carbohydrates": "3.8",
+        "Calories": "25"
+    },
+    {
+        "Title": "Бамия 4 сезона",
+        "Proteins": "0.2",
+        "Fats": "0.1",
+        "Carbohydrates": "8.0",
+        "Calories": "23"
+    },
+    {
+        "Title": "Бедренец камнеломка",
+        "Proteins": "0.0",
+        "Fats": "0.0",
+        "Carbohydrates": "0.0",
+        "Calories": ""
+    },
+    {
+        "Title": "Бессмертник",
+        "Proteins": "0.2",
+        "Fats": "0.0",
+        "Carbohydrates": "5.0",
+        "Calories": "27"
+    },
+    {
+        "Title": "Бобы",
+        "Proteins": "6.0",
+        "Fats": "0.1",
+        "Carbohydrates": "8.5",
+        "Calories": "57"
+    },
+    {
+        "Title": "Бобы зелёные",
+        "Proteins": "6.0",
+        "Fats": "0.1",
+        "Carbohydrates": "10.5",
+        "Calories": "60"
+    },
+    {
+        "Title": "Бобы Эдамамэ",
+        "Proteins": "13.0",
+        "Fats": "6.2",
+        "Carbohydrates": "11.1",
+        "Calories": "147"
+    },
+    {
+        "Title": "Бобы Эдамамэ зелёные замороженные",
+        "Proteins": "13.1",
+        "Fats": "4.6",
+        "Carbohydrates": "14.0",
+        "Calories": "150"
+    },
+    {
+        "Title": "Брюква",
+        "Proteins": "1.2",
+        "Fats": "0.1",
+        "Carbohydrates": "7.7",
+        "Calories": "37"
+    },
+    {
+        "Title": "Брюква запечённая",
+        "Proteins": "2.1",
+        "Fats": "1.6",
+        "Carbohydrates": "7.5",
+        "Calories": "51"
+    },
+    {
+        "Title": "Брюква тушеная",
+        "Proteins": "1.2",
+        "Fats": "8.5",
+        "Carbohydrates": "8.6",
+        "Calories": "114"
+    },
+    {
+        "Title": "Вигна",
+        "Proteins": "3.0",
+        "Fats": "0.4",
+        "Carbohydrates": "18.8",
+        "Calories": "90"
+    },
+    {
+        "Title": "Горох варёный",
+        "Proteins": "6.0",
+        "Fats": "0.0",
+        "Carbohydrates": "9.0",
+        "Calories": "60"
+    },
+    {
+        "Title": "Горох лущеный",
+        "Proteins": "23.0",
+        "Fats": "1.6",
+        "Carbohydrates": "57.7",
+        "Calories": "323"
+    },
+    {
+        "Title": "Горох маш",
+        "Proteins": "23.5",
+        "Fats": "2.0",
+        "Carbohydrates": "46.0",
+        "Calories": "300"
+    },
+    {
+        "Title": "Горох маш (ростки)",
+        "Proteins": "3.1",
+        "Fats": "0.2",
+        "Carbohydrates": "6.0",
+        "Calories": "30"
+    },
+    {
+        "Title": "Горох сушёный",
+        "Proteins": "20.5",
+        "Fats": "2.0",
+        "Carbohydrates": "53.3",
+        "Calories": "298"
+    },
+    {
+        "Title": "Горошек зелёный",
+        "Proteins": "5.0",
+        "Fats": "0.2",
+        "Carbohydrates": "13.8",
+        "Calories": "73"
+    },
+    {
+        "Title": "Горошек зелёный 4 сезона",
+        "Proteins": "5.1",
+        "Fats": "0.2",
+        "Carbohydrates": "13.1",
+        "Calories": "75"
+    },
+    {
+        "Title": "Горошек зелёный 6 соток",
+        "Proteins": "3.1",
+        "Fats": "0.0",
+        "Carbohydrates": "6.5",
+        "Calories": "38"
+    },
+    {
+        "Title": "Горошек зелёный Globus",
+        "Proteins": "5.5",
+        "Fats": "0.7",
+        "Carbohydrates": "7.4",
+        "Calories": "74"
+    },
+    {
+        "Title": "Горошек зелёный Hortex",
+        "Proteins": "6.4",
+        "Fats": "0.4",
+        "Carbohydrates": "10.5",
+        "Calories": "83"
+    },
+    {
+        "Title": "Горошек зелёный Бондюэль замороженный",
+        "Proteins": "6.9",
+        "Fats": "0.4",
+        "Carbohydrates": "19.4",
+        "Calories": "85"
+    },
+    {
+        "Title": "Горошек зелёный Бондюэль Нежный",
+        "Proteins": "4.8",
+        "Fats": "0.2",
+        "Carbohydrates": "7.5",
+        "Calories": "52"
+    },
+    {
+        "Title": "Горошек зелёный Бондюэль с молодой морковью",
+        "Proteins": "3.3",
+        "Fats": "0.5",
+        "Carbohydrates": "9.3",
+        "Calories": "54"
+    },
+    {
+        "Title": "Горошек зелёный Бондюэль с морковью в кубиках",
+        "Proteins": "3.0",
+        "Fats": "0.2",
+        "Carbohydrates": "10.0",
+        "Calories": "53"
+    },
+    {
+        "Title": "Горошек зелёный замороженный",
+        "Proteins": "6.4",
+        "Fats": "0.4",
+        "Carbohydrates": "16.3",
+        "Calories": "72"
+    },
+    {
+        "Title": "Горошек зелёный Каждый день замороженный",
+        "Proteins": "5.0",
+        "Fats": "0.2",
+        "Carbohydrates": "8.5",
+        "Calories": "55"
+    },
+    {
+        "Title": "Горошек зелёный консервированный",
+        "Proteins": "3.6",
+        "Fats": "0.1",
+        "Carbohydrates": "9.8",
+        "Calories": "55"
+    },
+    {
+        "Title": "Горошек зелёный стручковый",
+        "Proteins": "5.0",
+        "Fats": "0.2",
+        "Carbohydrates": "8.3",
+        "Calories": "55"
+    },
+    {
+        "Title": "Гулявник лекарственный",
+        "Proteins": "0.3",
+        "Fats": "0.0",
+        "Carbohydrates": "5.0",
+        "Calories": "21"
+    },
+    {
+        "Title": "Дайкон",
+        "Proteins": "1.2",
+        "Fats": "0.0",
+        "Carbohydrates": "4.1",
+        "Calories": "21"
+    },
+    {
+        "Title": "Девясил",
+        "Proteins": "2.9",
+        "Fats": "0.0",
+        "Carbohydrates": "0.2",
+        "Calories": "15"
+    },
+    {
+        "Title": "Драники картофельные Зимняя радуга Белорусские замороженные",
+        "Proteins": "1.9",
+        "Fats": "0.4",
+        "Carbohydrates": "16.9",
+        "Calories": "79"
+    },
+    {
+        "Title": "Закусочка Дядя Ваня Венгерская",
+        "Proteins": "5.0",
+        "Fats": "5.5",
+        "Carbohydrates": "3.0",
+        "Calories": "82"
+    },
+    {
+        "Title": "Зелень",
+        "Proteins": "2.6",
+        "Fats": "0.4",
+        "Carbohydrates": "5.2",
+        "Calories": "36"
+    },
+    {
+        "Title": "Зразы картофельные от Ильиной с грибами",
+        "Proteins": "2.0",
+        "Fats": "1.0",
+        "Carbohydrates": "13.0",
+        "Calories": "70"
+    },
+    {
+        "Title": "Зразы картофельные от Ильиной с капустой",
+        "Proteins": "3.3",
+        "Fats": "3.9",
+        "Carbohydrates": "15.0",
+        "Calories": "108"
+    },
+    {
+        "Title": "Кабачки 4 сезона нарезанные",
+        "Proteins": "0.6",
+        "Fats": "0.3",
+        "Carbohydrates": "5.3",
+        "Calories": "26"
+    },
+    {
+        "Title": "Кабачковая икра",
+        "Proteins": "1.2",
+        "Fats": "7.0",
+        "Carbohydrates": "7.4",
+        "Calories": "97"
+    },
+    {
+        "Title": "Кабачок",
+        "Proteins": "0.6",
+        "Fats": "0.3",
+        "Carbohydrates": "4.6",
+        "Calories": "24"
+    },
+    {
+        "Title": "Кабачок жареный",
+        "Proteins": "1.1",
+        "Fats": "6.0",
+        "Carbohydrates": "6.7",
+        "Calories": "88"
+    },
+    {
+        "Title": "Кабачок замороженный",
+        "Proteins": "0.6",
+        "Fats": "0.3",
+        "Carbohydrates": "4.7",
+        "Calories": "21"
+    },
+    {
+        "Title": "Кабачок консервированный",
+        "Proteins": "0.4",
+        "Fats": "0.1",
+        "Carbohydrates": "4.9",
+        "Calories": "22"
+    },
+    {
+        "Title": "Кабачок сушеный",
+        "Proteins": "8.5",
+        "Fats": "4.3",
+        "Carbohydrates": "65.2",
+        "Calories": "340"
+    },
+    {
+        "Title": "Каперсы",
+        "Proteins": "0.8",
+        "Fats": "0.1",
+        "Carbohydrates": "2.6",
+        "Calories": "14"
+    },
+    {
+        "Title": "Каперсы консервированные",
+        "Proteins": "2.4",
+        "Fats": "0.9",
+        "Carbohydrates": "1.7",
+        "Calories": "24"
+    },
+    {
+        "Title": "Каперсы маринованные",
+        "Proteins": "2.4",
+        "Fats": "0.9",
+        "Carbohydrates": "1.7",
+        "Calories": "24"
+    },
+    {
+        "Title": "Капуста белокочанная",
+        "Proteins": "1.8",
+        "Fats": "0.1",
+        "Carbohydrates": "4.7",
+        "Calories": "27"
+    },
+    {
+        "Title": "Капуста белокочанная жареная",
+        "Proteins": "1.8",
+        "Fats": "2.8",
+        "Carbohydrates": "4.2",
+        "Calories": "49"
+    },
+    {
+        "Title": "Капуста белокочанная сушеная",
+        "Proteins": "15.0",
+        "Fats": "1.4",
+        "Carbohydrates": "48.0",
+        "Calories": "278"
+    },
+    {
+        "Title": "Капуста брокколи",
+        "Proteins": "3.0",
+        "Fats": "0.4",
+        "Carbohydrates": "5.2",
+        "Calories": "28"
+    },
+    {
+        "Title": "Капуста брокколи 4 сезона",
+        "Proteins": "2.5",
+        "Fats": "0.3",
+        "Carbohydrates": "4.6",
+        "Calories": "31"
+    },
+    {
+        "Title": "Капуста брокколи Hortex",
+        "Proteins": "2.7",
+        "Fats": "0.4",
+        "Carbohydrates": "2.4",
+        "Calories": "29"
+    },
+    {
+        "Title": "Капуста брокколи Бондюэль замороженная",
+        "Proteins": "2.7",
+        "Fats": "0.1",
+        "Carbohydrates": "4.9",
+        "Calories": "23"
+    },
+    {
+        "Title": "Капуста брокколи варёная",
+        "Proteins": "3.0",
+        "Fats": "0.4",
+        "Carbohydrates": "4.0",
+        "Calories": "27"
+    },
+    {
+        "Title": "Капуста брокколи замороженная",
+        "Proteins": "2.7",
+        "Fats": "0.4",
+        "Carbohydrates": "4.7",
+        "Calories": "24"
+    },
+    {
+        "Title": "Капуста брюссельская",
+        "Proteins": "4.8",
+        "Fats": "0.0",
+        "Carbohydrates": "8.0",
+        "Calories": "43"
+    },
+    {
+        "Title": "Капуста брюссельская 4 сезона",
+        "Proteins": "4.8",
+        "Fats": "0.3",
+        "Carbohydrates": "3.1",
+        "Calories": "36"
+    }
+]
